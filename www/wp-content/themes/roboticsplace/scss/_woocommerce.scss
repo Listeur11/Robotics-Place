@@ -1,0 +1,224 @@
+.page-template-default{
+    a{
+        color: $color3;
+    }
+}
+.woocommerce {
+
+    a {
+        color: $color5;
+
+    }
+    p {
+        a {
+            text-decoration: underline;
+        }
+    }
+    & > *:nth-child(2n + 1){
+        box-sizing: border-box;
+        float: left;
+        width: calc(30% - 20px);
+        margin-right: 20px;
+    }
+    & > *:nth-child(2n) {
+        box-sizing: border-box;
+        float: left;
+        width: calc(70% - 20px);
+        margin-right: 20px;
+        & > * {
+            max-width: 650px;
+
+        }
+    }
+    .woocommerce-MyAccount-navigation {
+        box-sizing: border-box;
+        float: left;
+        width: calc(30% - 20px);
+        margin-right: 20px;
+    }
+    .woocommerce-MyAccount-content {
+        box-sizing: border-box;
+        float: left;
+        width: calc(70% - 20px);
+        margin-right: 20px;
+        & > * {
+            max-width: 650px;
+
+        }
+    }
+
+
+    .button {
+        color: white;
+        text-transform: uppercase;
+        width: auto;
+        height: 50px;
+        background: #353374;
+        margin: 20px 0;
+        padding: 0 15px;
+        &:hover {
+            color: $color5;
+            background: white;
+        }
+
+    }
+    .woocommerce-message, .woocommerce-error {
+        width:100%;
+        margin-bottom: 20px;
+        padding: 15px;
+        border-radius: 3px;
+        li{
+            margin-top: 10px;
+            &:first-child{
+                margin-top: 0;
+            }
+        }
+    }
+
+    a.edit {
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-transform: uppercase;
+        max-width: 250px;
+        line-height: 45px;
+        background: #353374;
+        margin: 20px 0;
+        @include transition(all 0.3s);
+        border-radius: 3px;
+        &:hover {
+            color: $color5;
+            background: white;
+        }
+
+    }
+    h3 {
+        &:before {
+            content: '';
+            display: inline-block;
+            width: 40px;
+            height: 9px;
+            background: url('./images/icons/barrehorizontale.svg') no-repeat;
+        }
+    }
+    span.required{
+        color: $color5;
+    }
+    legend{
+        color: $color3;
+    }
+    fieldset{
+        border: 1px solid $color3;
+        border-radius: 3px;
+    }
+}
+
+.woocommerce-account .woocommerce-info,
+.woocommerce-account .woocommerce-noreviews,
+.woocommerce-account p.no-comments {
+    background-color: transparent;
+    color: $color6;
+}
+
+.woocommerce-MyAccount-navigation {
+    padding-bottom: 50px;
+    li.is-active {
+        a {
+            font-weight: bold;
+        }
+    }
+    a {
+        color: $color3;
+        text-transform: uppercase;
+        padding: 10px 20px;
+        display: block;
+        &:hover {
+            font-weight: bold;
+        }
+    }
+    .active {
+        font-weight: bold;
+    }
+}
+
+
+// -------
+// Start typing
+// -------
+.page-template-publier-un-poste {
+    .entry-title {
+        display: none;
+    }
+    .fieldset-logged_in {
+        width: auto;
+        text-align: right;
+        border: none;
+        margin-top: 50px;
+        label {
+            display: inline;
+        }
+        .account-sign-in {
+            display: inline;
+            a {
+                display: inline;
+                color: $color5;
+                margin-left: 10px;
+            }
+        }
+    }
+
+    .mon-compte-poste-form {
+        background-color: #fff;
+        h2 {
+            text-align: left;
+            padding-left: 10px;
+        }
+        fieldset {
+            padding-left: 10px;
+            padding-right: 10px;
+            color: $color1;
+            font-weight: bold;
+            small {
+                color: $color1;
+                font-weight: light;
+            }
+        }
+        footer {
+            min-height: 0;
+            margin-top: 0;
+            .edit-link {
+                display: inline-block;
+                margin-bottom: 30px;
+                .post-edit-link {
+                    color: $color5;
+                    display: inline;
+                    text-align: center;
+                }
+            }
+        }
+    }
+}
+
+
+// -------
+// Mobile
+// -------
+@media all and (max-width: 767px) {
+    .woocommerce {
+        flex-direction: column;
+        & > *:nth-child(2n + 1) {
+            width: 100%;
+            margin-right: 0px;
+        }
+        & > *:nth-child(2n) {
+
+            width: 100%;
+        }
+    }
+    .page-template-publier-un-poste {
+        .fieldset-logged_in {
+            margin-top: 0;
+        }
+    }
+}

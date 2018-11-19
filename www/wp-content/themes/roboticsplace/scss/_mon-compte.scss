@@ -1,0 +1,476 @@
+/************************ espace connecté ******************************/
+.woocommerce .woocommerce-MyAccount-content>*{
+  max-width: inherit!important;
+}
+.woocommerce .button{
+  margin: 0 10px;
+}
+.woocommerce-MyAccount-content.whiteBg{
+  padding: 25px;
+}
+.woocommerce .woocommerce-MyAccount-content .dashboard-members{
+  max-width: inherit;
+}
+.dashboard-item{
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin-bottom: 30px;
+}
+.item-calendrier,
+.item_projet,
+.item-cr{
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  margin:0;
+  position: relative;
+  cursor:pointer;
+    &:nth-of-type(even){
+      background-color: #ddd;
+    }
+    &:hover{
+      color: #C83463;
+    }
+    span{
+      display: block;
+      margin: 0 5px;
+    }
+    &::before{
+      position: absolute;
+      content:'+';
+      top:calc(50% - 15px);
+      right: 5px;
+      width:30px;
+      height: 30px;
+      font-size: 20px;
+      font-weight: 700;
+      text-align: center;
+    }
+}
+.ui-accordion-header-active{
+  &::before{
+    content:'-';
+  }
+}
+.ui-accordion-content{
+  padding: 10px;
+}
+/********** espace du Go No Go ******************/
+.acf-field-5b8e5cb2c5300{
+  ul{
+    li{
+      font-size: 18px !important;
+    }
+  }
+}
+.GoNoGo .item_gonogo{
+  padding:10px;
+  position: relative;
+  display: block;
+  width: 100%;
+  color: #787878;
+}
+.item_gonogo:nth-child(odd){
+  background: #dddddd;
+}
+.item_gonogo::after{
+  position: absolute;
+  top: 7px;
+  right: 15px;
+  content: 'Répondre';
+  font-size: 13px;
+  background:#C83463;
+  padding: 5px;
+  color: #FFF;
+  border-radius: 5px;
+}
+.thread-odd p{
+  color: #000;
+}
+.comment-reply-link{
+  display: none;
+}
+.comment-metadata a{
+  font-size: 12px;
+}
+.form-submit #submit{
+  width: auto;
+  margin: 0 auto;
+  height: auto;
+  padding: 15px 25px;
+  line-height: 1;
+  background: #C83463!important;
+  color: #FFFFFF !important;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  position: relative;
+  font-family: "medium";
+  font-size: 16px;
+  font-weight: 100;
+  letter-spacing: 0.5px;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  border-radius: 4px;
+  cursor: pointer;
+}
+/***************** single poste *************************/
+.mon-compte-poste-form{
+  background-color: #FFFFFF;
+  padding: 25px;
+}
+.wrapper-fiche{
+  margin-top: 40px;
+}
+.fiche-title{
+  margin-top: 0;
+  h2{
+    text-align: left;
+    margin:0
+  }
+  .marginRight{
+   padding: 20px;
+   margin-right: 10%;
+ }
+ .wp-post-image{
+   max-width: 175px;
+   margin: 20px 0;
+ }
+ a.button{
+   color: #FFF;
+ }
+}
+.txt-fiche{
+  ul{
+    padding-left: 15px;
+    li{
+      list-style: disc;
+      color: #787878;
+    }
+  }
+
+}
+.job-listing-meta{
+  height: 40px;
+  border-bottom: 1px solid #DDD;
+  li{
+    display: inline-block;
+    width: 33%;
+    line-height: 40px;
+    padding: 0 10px;
+    a{
+      color: #787878
+    }
+    i{
+      margin-right: 5px
+    }
+  }
+}
+.application_button{
+  color: #C83463;
+  background: white;
+  border: 1px solid #C83463;
+  padding:10px 20px;
+  cursor: pointer;
+  -webkit-transition: all linear .275s;
+  -moz-transition: all linear .275s;
+  -ms-transition: all linear .275s;
+  transition: all linear .275s
+}
+.application_button:hover{
+  color: white;
+  background: #474291 !important;
+  border: 1px solid #474291;
+}
+.company_twitter{
+  display: inline-block;
+  color: white;
+  background: #1DA1F2;
+  padding: 5px 15px 5px 30px;
+  position: relative;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+.company_twitter::before{
+  content:'@';
+  position: absolute;
+  left: 10px;
+  width: 20px;
+  text-align: right;
+}
+/*********************** page liste d'emploi *************************/
+.job_types li input,
+.job_types li input[type="checkbox"]:checked{
+  position: relative;
+  left: inherit;
+}
+/********************* page mon compte - mes offres ********************/
+.job-manager-jobs .job_title{
+  text-align: left;
+}
+.job-manager-jobs .job_title a,
+.job-dashboard-actions li a{
+  color: #787878;
+}
+.job-manager-jobs .job_title a{
+  font-weight: 900;
+}
+.job-manager-jobs .job-dashboard-actions li a{
+  font-weight: 400;
+}
+.job-manager-jobs .job_title a:hover,
+.job-dashboard-actions li a:hover{
+  color: #C83463;
+}
+#job-manager-job-dashboard table ul.job-dashboard-actions li{
+  display: inline-block;
+}
+/*********************** page mon compte - mes cv ************************/
+.page-template-publier-un-poste a.button{
+  width: auto;
+  display: inline-flex;
+  padding: 0 20px;
+  margin:50px;
+}
+.page-template-publier-un-poste a.button:hover{
+  border:1px solid #C83463;
+}
+/********************* page mon compte - curriculum vitae ****************/
+.resume_preview_title input{
+  margin:0 10px;
+}
+.resume-manager-resumes{
+  width: 100%;
+  text-align: left;
+}
+/************************ single resume ***********/
+.single-resume .vs-section .container{
+  max-width: 70%;
+}
+/****************** page pour éditer fiche adhérent ****************/
+#message{
+  position: relative;
+  padding: .75rem 1.25rem;
+  margin-bottom: 1rem;
+  border: 1px solid transparent;
+  border-radius: .25rem;
+
+    p{
+      margin:0
+    }
+}
+.updated{
+  background-color: #d1ecf1;
+  border-color: #bee5eb;
+   p{
+      color: #0c5460;
+   }
+}
+.error{
+  color: #721c24;
+  background-color: #f8d7da;
+  border-color: #f5c6cb;
+}
+.infos{
+  background-color: #cce5ff;
+  border-color: #b8daff;
+    p{
+      color: #004085;
+    }
+}
+.page-template-edit-fiche{
+    .button__SeeFiche{
+      margin-top: 50px;
+      text-align: right;
+    }
+    .mon-compte-poste-form{
+      background-color: #FFFFFF;
+      padding: 25px;
+
+      .acf-fields > .acf-field{
+        border-top: none;
+        }
+      }
+      .acf-checkbox-list{
+        li{
+          label{
+            padding: 3px 10px;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            -webkit-box-pack: center;
+            -ms-flex-pack: center;
+            justify-content: center;
+            position: relative;
+            letter-spacing: 0.5px;
+            -webkit-transition: all 0.3s;
+            transition: all 0.3s;
+            -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+            border-radius: 4px;
+            background: transparent;
+            cursor:pointer;
+
+            &.selected{
+              background: #353374;
+              color: #FFFFFF;
+            }
+          }
+        }
+      }
+      .acf-button{
+        width: auto;
+        display: table;
+        margin: 0 auto;
+        height: auto;
+        padding: 5px 25px;
+        line-height: 1;
+        background: #353374;
+        color: #FFFFFF;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        position: relative;
+        font-family: "medium";
+        font-size: 16px;
+        font-weight: 100;
+        letter-spacing: 0.5px;
+        -webkit-transition: all 0.3s;
+        transition: all 0.3s;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        border-radius: 4px;
+      }
+      .acf-form-submit input{
+        width: auto;
+        display: table;
+        margin: 0 auto;
+        height: auto;
+        padding: 15px 25px;
+        line-height: 1;
+        background: #C83463!important;
+        color: #FFFFFF !important;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        position: relative;
+        font-family: "medium";
+        font-size: 16px;
+        font-weight: 100;
+        letter-spacing: 0.5px;
+        -webkit-transition: all 0.3s;
+        transition: all 0.3s;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        border-radius: 4px;
+      }
+      .image-wrap{
+        img{
+          max-width: 300px;
+        }
+      }
+}
+/******************* page business ***************/
+.page-template-page-business{
+  #gform_wrapper_5{
+    padding:50px;
+    ul{
+      margin:0;
+    }
+    .ginput_container_name{
+      display: flex;
+      span{
+        margin:0 5px;
+        width: 100%;
+      }
+    }
+    .gform_button{
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      min-width: 125px;
+      width: auto;
+      border-radius: 3px;
+      border: none;
+      background-color: #C83463!important;
+      color: white;
+      -webkit-box-orient: horizontal;
+      -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+      flex-direction: row;
+      position: relative;
+      margin: 20px auto;
+      cursor: pointer;
+    }
+  }
+}
+/**************** single Go noGo ***********************/
+.single-go_nogo{
+  #comments{
+    display: block;
+  }
+}
+#reply-title{
+  display: none;
+}
+.comments-title{
+  text-align: left;
+  font-size: 18px;
+  font-weight: 700
+}
+/**************************** liste des ressources***************/
+.liste_ressources{
+  padding: 0 20px;
+  li{
+    padding: 5px 0;
+    margin:5px 0;
+    border-bottom: 1px solid #ddd
+    &::last-child{
+      border-bottom:none;
+    }
+  }
+}
+.acf-button{
+  width: auto;
+  display: table;
+  margin: 0 auto;
+  height: auto;
+  padding: 5px 25px;
+  line-height: 1;
+  background: #353374;
+  color: #FFFFFF;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  position: relative;
+  font-family: "medium";
+  font-size: 16px;
+  font-weight: 100;
+  letter-spacing: 0.5px;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+/******************************************** page des commandes mon compte *****************/
+.woocommerce{
+  .woocommerce-orders-table__cell-order-actions{
+    a.cancel{
+      display: none !important;
+    }
+  }
+}

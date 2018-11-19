@@ -1,0 +1,85 @@
+@mixin transition($transition...) {
+    -moz-transition:    $transition;
+    -o-transition:      $transition;
+    -webkit-transition: $transition;
+    transition:         $transition;
+    @content;
+}
+@mixin transition-property($property...) {
+    -moz-transition-property:    $property;
+    -o-transition-property:      $property;
+    -webkit-transition-property: $property;
+    transition-property:         $property;
+    @content;
+}
+@mixin transition-duration($duration...) {
+    -moz-transition-property:    $duration;
+    -o-transition-property:      $duration;
+    -webkit-transition-property: $duration;
+    transition-property:         $duration;
+    @content;
+}
+@mixin transition-timing-function($timing...) {
+    -moz-transition-timing-function:    $timing;
+    -o-transition-timing-function:      $timing;
+    -webkit-transition-timing-function: $timing;
+    transition-timing-function:         $timing;
+    @content;
+}
+@mixin transition-delay($delay...) {
+    -moz-transition-delay:    $delay;
+    -o-transition-delay:      $delay;
+    -webkit-transition-delay: $delay; 
+    transition-delay:         $delay;
+    @content;
+}
+
+@mixin rotate($deg) {
+    -ms-transform: rotate($deg + deg); /* IE 9 */
+    -webkit-transform: rotate($deg + deg); /* Safari */
+    -moz-transform: rotate($deg + deg);
+    transform: rotate($deg + deg);
+}
+@mixin translateY($Y) {
+   -webkit-transform: translateY($Y + px);
+    -moz-transform: translateY($Y + px);
+    -ms-transform: translateY($Y +px);
+    transform: translateY($Y +px);
+}
+
+@mixin scale($scaA, $scaB) {
+    -ms-transform: scale($scaA, $scaB); /* IE 9 */
+    -webkit-transform: scale($scaA, $scaB); /* Safari */
+    transform: scale($scaA, $scaB);
+}
+@mixin shadow() {
+   -webkit-box-shadow: -1px 7px 25px 1px rgba(0,0,0,0.12);
+-moz-box-shadow: -1px 7px 25px 1px rgba(0,0,0,0.12);
+box-shadow: -1px 7px 25px 1px rgba(0,0,0,0.12);
+}
+@mixin flexbox() {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+}
+
+@mixin flex($values) {
+  -webkit-box-flex: $values;
+  -moz-box-flex:  $values;
+  -webkit-flex:  $values;
+  -ms-flex:  $values;
+  flex:  $values;
+}
+
+@mixin order($val) {
+  -webkit-box-ordinal-group: $val;  
+  -moz-box-ordinal-group: $val;     
+  -ms-flex-order: $val;     
+  -webkit-order: $val;  
+  order: $val;
+}
+
+
+

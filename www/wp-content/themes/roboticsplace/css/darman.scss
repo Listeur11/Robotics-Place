@@ -1,0 +1,141 @@
+.whiteBg{
+    background: white;
+    @include shadow();
+    border-radius: 1px;
+}
+.label{
+    color: #4A4A4A;
+    font-family: 'medium';
+    font-size: 16px;
+}
+#resultatRecherche{
+    margin-top: 0;
+    margin-bottom: 70px;
+    padding: 20px;
+    .button--pink{
+        width: 280px;
+    }
+    img{
+        max-width: 180px;
+        padding-right: 15px;
+    }
+    span{
+        display: flex;
+        color: $color5;
+    }
+    .lineSpacerVertical{
+        height: 60px;
+        width: 2px;
+        background: red;
+    }
+    .societe{
+        border-right: 1px solid #E3E3E3;
+    }
+    li{
+        margin-top: 20px;
+        &:first-child{
+            margin-top: 8px;
+        }
+    }
+}
+.grey-line{
+  position: relative;
+  display: block;
+  margin: 0 auto;
+  height: 2px;
+  background-color: grey;
+  width: 70vw;
+}
+#barreRecherche{
+  .reset-btn{
+    position: absolute;
+    bottom: -15px;
+    padding: 10px;
+    height: auto;
+    width: 120px;
+    left: calc(50% - 60px);
+  }
+  .facetwp-facet-entreprise_nom{
+    .facetwp-autocomplete{
+      height: 31px;
+      font-size: 16px;
+      vertical-align: top;
+    }
+    .facetwp-autocomplete-update{
+      height: 31px;
+      padding: 0 5px;
+      font-size: 14px;
+      font-weight: 700;
+    }
+  }
+
+}
+
+.facetwp-facet{
+  display: block;
+  margin:0 auto;
+    .facetwp-dropdown{
+      border: 1px solid #ddd;
+      padding: 6px 22px 6px 8px;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      overflow: hidden;
+    }
+}
+.facetwp-template[data-name='annuaire']{
+  margin-top:-100px;
+  #resultatRecherche{
+    .facetwp-counts{
+      text-align: right;
+    }
+    .facetwp-pager-label{
+      display: inline-block;
+    }
+  }
+
+}
+
+.facetwp-facet-annuaire_map{
+  margin-top: -50px;
+}
+.facetwp-map-filtering{
+  display: none
+}
+.marker-link{
+  color: $color5;
+
+    &:hover{
+      color: $color3;
+  }
+}
+@media all and (max-width: 567px) {
+    #resultatRecherche{
+        .button__voirFiche{
+            float: right;
+        }
+        .button--pink{
+            font-size: 14px;
+        width: 240px;
+        }
+    }
+}
+@media all and (max-width:768px){
+  #barreRecherche{
+    .label{
+      padding: 0 20px;
+      text-align: left;
+    }
+    .facetwp-facet {
+      width: 100%;
+      padding: 0 20px;
+      margin-bottom: 15px;
+       .fs-wrap,
+       .fs-dropdown,
+       .facetwp-dropdown{
+        width: 100%;
+      }
+    }
+  }
+
+
+}

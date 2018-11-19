@@ -1,0 +1,72 @@
+$color: #1abc9c;
+input:-webkit-autofill{
+    background-color: white !important;
+}
+input {
+    color: $color6;
+    width: auto; 
+    border-radius: 3px;
+    border: 1px solid #D5D9DB;
+    //display: block;
+    padding: 10px 5px 10px 10px;
+    transition: all 0.3s cubic-bezier(.64, .09, .08, 1);
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 99%, white 1%);
+    background-color: white !important;
+    background-position: 0;
+    background-size: 0% 100%;
+    background-repeat: no-repeat;
+    font-size: 20px;
+    &::-webkit-input-placeholder {
+        font-size: 14px;
+        @include transition (all 0.3s);
+        color: $color7;
+        //color: darken(white, 40%);
+    }
+    &:focus,
+    &:valid {
+        box-shadow: none;
+        outline: none;
+        background-size: 100% 100%;
+    }
+}
+
+#wp-submit {
+    width: 100%;
+}
+
+.vs-section form {
+    input, select, textarea{
+        width: 100%;
+    }
+    input{
+        font-size: 14px;
+        &:hover{
+            border-color: $color7;
+        }
+        &:focus{
+            border-color: $color5;
+        }
+    }
+    .gfield{
+        margin-top: 20px;
+    }
+    label{
+        display: block;
+        margin-bottom: 7px;
+    }
+   
+    & > [class *=pure-u] {
+        box-sizing: border-box;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    textarea{
+        border: 1px solid #D5D9DB;
+        border-radius: 3px;
+        &:focus{
+            border-color: $color5; 
+        }
+    }
+    
+    
+}

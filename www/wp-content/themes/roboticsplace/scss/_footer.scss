@@ -1,0 +1,137 @@
+div.pushFooter {
+    padding-bottom: 476px;
+    user-select: none;
+    pointer-events: none;
+}
+
+footer#roboticsfooter {
+
+    min-height: 476px;
+    margin-top: -476px;
+
+    #partners {
+        background: white;
+        color: $color6;
+        p {
+            font-size: 18px;
+            line-height: 24px;
+        }
+        #partnersPic {
+            padding-top: 25px;
+            padding-bottom: 25px;
+            justify-content: space-between;
+        }
+    }
+    #footer {
+        padding: 50px 0;
+        overflow: hidden;
+        position: relative;
+        background: $color1;
+        color: white;
+        position: relative;
+        p {
+            margin: 50px 0 0 0;
+            color: white;
+        }
+        ul {
+            text-transform: uppercase;
+            li {
+                margin-bottom: 10px;
+                a {
+                    color: white;
+                    @include transition(all 0.3s);
+                    letter-spacing: 0.3px; //font-family: 'regular';
+                    font-size: 14px;
+                    &:hover {
+                        color: $color5;
+                        font-family: 'medium';
+                    }
+                }
+            }
+            &.sub-menu {
+                margin-top: 10px;
+                margin-left: 15px;
+                opacity: 0.6;
+            }
+        }
+
+    }
+
+    .container {
+        position: relative;
+        z-index: 2;
+    }
+
+    #logoFooter {
+        margin-bottom: 50px;
+    }
+    #logoDarman {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        width: 20px;
+        height: 20px;
+    }
+}
+
+#paternFooter1 {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    z-index: 1;
+}
+
+#paternFooter2 {
+    position: absolute;
+    bottom: 0px;
+    left: 10%;
+    z-index: 1;
+
+}
+
+#paternFooter3 {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    z-index: 1;
+
+}
+.partenaire-item a{
+    display: block;
+    padding:25px;
+}
+@media all and (max-width: 768px) {
+    footer#roboticsfooter {
+        #footer {
+            .container {
+                & > div > div {
+                    position: relative;
+                    left: 100px;
+                    &:first-child {
+                        position: absolute;
+                        left: 20px;
+                        top: 0;
+                    }
+                    &:last-child {
+                        left: 0;
+                    }
+                }
+                ul {
+                    li {
+                        a {
+                            font-size: 13px;
+                        }
+                    }
+                }
+            }
+        }
+        #logoFooter {
+            width: 55px;
+        }
+
+        #logoDarman{
+            top: 37px;
+        }
+    }
+
+}

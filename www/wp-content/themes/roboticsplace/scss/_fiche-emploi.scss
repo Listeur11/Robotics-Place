@@ -1,0 +1,140 @@
+// -------
+// Start typing
+// -------
+#fiche-emploi {
+    .vs-section {
+        padding-top: 170px;
+    }
+    h1 {
+        width: auto;
+        text-align: left;
+    }
+    .fiche-title {
+        text-align: center;
+        margin-right: auto;
+        margin-left: auto;
+        max-width: 800px;
+    }
+    .fiche-company-infos {
+        position: relative;
+        z-index: 10;
+        a {
+            color: $color5;
+        }
+        p {
+            padding-right: 60px;
+        }
+    }
+    .fiche-emploi-infos {
+        max-width: 600px;
+        margin: auto;
+        span {
+            text-align: center;
+            padding: 10px;
+        }
+        .fiche-type-poste {
+            a{
+                color: $color5;
+                font-weight: bold;
+            }
+        }
+    }
+    .btn-postuler {
+        text-align: right;
+        display: inline-block;
+        width: 100%;
+        .button--blue {
+            background: #353374;
+            display: inline-block;
+            text-align: center;
+            line-height: 49px;
+        }
+    }
+}
+
+
+
+#social {
+    text-align: center;
+}
+
+#fiche-emploi .back-link {
+    color: #C83463;
+    position: absolute;
+    left: 0;
+    font-weight: bold;
+    font-family: 'regular';
+}
+
+#fiche-emploi .category-link {
+    text-align: center;
+    color: $color5;
+    font-weight: bold;
+}
+
+#fiche-emploi .category-link a {
+    color: #C83463;
+    font-weight: bold;
+    font-family: 'regular';
+}
+
+#fiche-emploi .fiche-date {
+    color: #202044;
+    text-align: center;
+    font-family: 'regular';
+}
+
+#fiche-emploi .fiche-container {
+    padding-left: 30px;
+    padding-right: 15px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 30px;
+    background: white;
+    position: relative;
+}
+
+#fiche-emploi .fiche-container:before {
+    content: "";
+    width: 200px;
+    position: absolute;
+    background-color: white;
+    display: block;
+    left: -200px;
+    top: 0;
+    bottom: 0;
+    z-index: 1;
+}
+
+#fiche-emploi .fiche-container .txt-fiche {
+    z-index: 10;
+    background: white;
+}
+
+#fiche-emploi .img-post img {
+    position: relative;
+    margin-top: 100px;
+    z-index: 10;
+}
+.job_application{
+   .application_button{
+     display: none;
+   }
+   .application_details{
+       display: block !important;
+   }
+}
+.acf-form-submit{
+    .button{
+        background: #353374 !important;
+        padding: 10px 15px;
+        color: #FFFFFF !important;
+        cursor:pointer;
+    }
+}
+// -------
+// Mobile
+// -------
+@media all and (max-width: 768px) {
+
+}

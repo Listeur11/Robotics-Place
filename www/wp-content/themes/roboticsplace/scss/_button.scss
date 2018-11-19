@@ -1,0 +1,181 @@
+.button,
+.woocommerce-Button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    font-family: "medium";
+    font-size: 16px;
+    font-weight: 100;
+    letter-spacing: 0.5px;
+    @include transition(all 0.3s);
+    box-sizing: border-box;
+    border-radius: 4px; 
+    &__classic {
+        color: white;
+        text-transform: uppercase;
+        width: 200px;
+        height: 50px;
+    }
+    &__seconnecter {
+        color: white;
+        font-size: 12px;
+        height: 40px;
+        margin-top: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+        background: #353374;
+        &:hover {
+            color: $color5;
+            background: white;
+        }
+    }
+    &__voirFiche {
+        line-height: 40px;
+        font-size: 14px;
+        border: 1px solid $color3;
+        padding: 0 20px;
+        color: white;
+        &:hover {
+            color: $color5;
+            background: white;
+            border: 1px solid $color5;
+        }
+    }
+    &--margin {
+        margin-top: 70px;
+        margin-bottom: 70px;
+    }
+    span:before,
+    span:after {
+        content: "";
+        @include transition(all 0.3s);
+        position: absolute;
+        width: 40px;
+        height: 9px;
+        background: url('./images/icons/barrehorizontale.svg') no-repeat;
+    }
+    span:before {
+        top: 23px;
+        left: 0;
+        transform: translateX(-15px);
+    }
+    span:after {
+        top: 23px;
+        right: -15px;
+        transform: translateX(0px);
+        opacity: 0;
+    }
+
+
+    &:hover {
+
+        span:before {
+            transform: translateX(0px);
+            opacity: 0;
+        }
+        span:after {
+            transform: translateX(15px);
+            opacity: 1;
+        }
+    }
+    &__cluster {
+        color: #B5B4CF;
+        height: 50px;
+        padding-left: 25px;
+        padding-right: 25px;
+        margin-left: 15px;
+        font-size: 18px;
+        span:before {
+            opacity: 0;
+        }
+        &:hover {
+            color: white;
+            span:before {
+                opacity: 0;
+                transform: translateX(-15px);
+            }
+            span:after {
+                opacity: 0;
+            }
+        }
+        &--active {
+            color: white;
+
+            span:before {
+                opacity: 1 !important;
+            }
+        }
+    }
+
+    &--blue {
+        background: #353374;
+        &:hover {
+            color: $color5;
+            background: white;
+        }
+    }
+    &--violet {
+        background: $color3;
+    }
+    &--pink {
+        background: $color5;
+        color: white !important;
+        span:before {
+            background: url('./images/icons/barrehorizontale-violet-small.svg') no-repeat;
+        }
+        &:hover {
+            color: white !important;
+            background: $color3;
+        }
+    }
+    &--small {
+        width: inherit;
+    }
+}
+
+.linkArrow {
+    @include transition(all 0.3s);
+    .fa-long-arrow-alt-right {
+        @include transition(all 0.3s);
+
+        position: relative;
+        left: 0px;
+        top: 2px;
+    }
+    &:hover {
+        .fa-long-arrow-alt-right {
+            left: 10px;
+        }
+    }
+}
+
+// -------
+// Mobile
+// -------
+@media all and (max-width: 767px) {
+    .button {
+        &--margin {
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+        &__cluster {
+            margin: 0 0px 20px;
+            font-size: 14px;
+            padding: 5px;
+            width: 100%;
+            background-color: #363373;
+            span,
+            div {
+                display: none;
+            }
+            &--active {
+                background-color: $color5;
+            }
+        }
+    }
+
+    .back {
+        display: none;
+    }
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="486px" height="381px" viewBox="0 0 486 381" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="116.591652%" y1="78.7682105%" x2="30.5178495%" y2="107.586936%" id="linearGradient-1">
+            <stop stop-color="#C73462" offset="0%"></stop>
+            <stop stop-color="#F3F3F3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Missions" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.1">
+        <g id="Missions4" transform="translate(-247.000000, -1009.000000)" fill="url(#linearGradient-1)">
+            <path d="M249.318317,1176.65975 C239.605861,1140.41931 261.313479,1102.82836 297.549944,1093.1159 L602.831,1011.31694 C639.071448,1001.60847 676.666381,1023.31211 686.378837,1059.55255 L729.925538,1222.07086 C739.63401,1258.31131 717.930376,1295.91023 681.689928,1305.61472 L376.408872,1387.41766 C340.172407,1397.13011 302.57349,1375.4225 292.869002,1339.18603 L249.318317,1176.65975 Z" id="Fill-1"></path>
+        </g>
+    </g>
+</svg>

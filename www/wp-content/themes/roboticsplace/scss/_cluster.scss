@@ -1,0 +1,503 @@
+.whiteBg--padding {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.whiteBg--paddingSides {
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+}
+
+.btn_plus {
+    opacity: 0;
+}
+
+#bgCircleCluster {
+    fill: #544f98;
+    @include transition(fill 0.5s);
+}
+
+.btn_plus_pulse {
+    transform-origin: 85% 15%;
+
+    -webkit-animation: pulse 1.5s infinite;
+}
+
+#btn2 {
+    .btn_plus_pulse {
+        transform-origin: 72% 28%;
+    }
+}
+
+.circleOver {
+
+    user-select: none;
+    pointer-events: none;
+}
+.section__axes{
+    position: relative;
+    .shape_axes_left{
+        position: absolute;
+        top: 30%;
+        left: -10%;
+    }
+    .shape_axes_leftMiddle{
+        position: absolute;
+        top: 45%;
+        left: 2%;
+        z-index: -1;
+    }
+}
+#Orga {
+    margin-top: 50px;
+    width: 100%;
+    padding: 70px 0 100px;
+    overflow-x: hidden;
+    background: url('./images/paterns/backgroundOrga.jpg') no-repeat center 100%;
+    .custom-select {
+        display: none;
+    }
+    h2 {
+        color: white;
+    }
+    p {
+        color: white;
+    }
+    .contenu {
+        display: none;
+    }
+    text {
+        opacity: 0;
+    }
+    #schema {
+        position: relative;
+        left: -50px;
+    }
+    svg {
+        overflow: visible;
+        box-shadow: 0px -0px 10000px transparent;
+        @include scale(0.9,
+        0.9);
+    }
+    .titleSchema {
+        color: white;
+    }
+    .button {
+        &__cluster {
+            &:hover {
+                cursor: pointer;
+            }
+        }
+    }
+    circle.cls-32:hover,
+    .btn_plus,
+    .bigCircle,
+    .big--topLeft,
+    .big--topRight,
+    .big--bottomRight,
+    .big--bottomLeft,
+    .middleTop,
+    .middleLeft,
+    .middleRight {
+        cursor: pointer
+    }
+    #Layer_5 {
+        pointer-events: none;
+    }
+    .bigCircle,
+    .smallCircle,
+    .clusterCircle {
+        transform-origin: 50% 50%;
+        @include transition (all 0.3s);
+        .circleOver {
+            opacity: 0;
+            fill: $color5;
+        }
+
+    }
+
+    .smallCircle.small {
+        @include scale(0.65,
+        0.65);
+        &.over {
+            @include scale(0.7,
+            0.7);
+        }
+    }
+    .bigCircle.small {
+        @include scale(0.96,
+        0.96);
+
+    }
+    .clusterCircle.small {
+        @include scale(0.6,
+        0.6);
+    }
+    .whiteCircle,
+    text,
+    image {
+        user-select: none;
+        pointer-events: none;
+    }
+    .normal {
+        .whiteCircle {
+            opacity: 0;
+        }
+        .circleOver {
+            opacity: 0;
+            fill: $color5;
+        }
+    }
+    .over {
+        transform: scale(1.05);
+        .circleOver {
+            opacity: 0.5;
+            user-select: none;
+            pointer-events: none;
+        }
+        .btn_plus {
+            opacity: 1;
+        }
+    }
+    .deploy {
+        transform: scale(1.07);
+        .circleOver {
+            opacity: 0;
+
+        }
+        .whiteCircle {
+            opacity: 1;
+
+        }
+
+        .btn_plus {
+            opacity: 0;
+        }
+    }
+    #bgCircleCluster.bgClusterHovered {
+        fill: #A35C92 !important;
+    }
+
+    #bgCircleCluster.deploy {
+        transform: scale(1);
+        fill: #474291 !important;
+    }
+    .bigCircle {
+        .whiteCircle {
+            display: none;
+        }
+    }
+    .bigCircle.deploy {
+        text {
+            opacity: 0;
+        }
+        .whiteCircle {
+            display: block;
+        }
+        .hovered {
+            circle {
+                fill: white;
+                @include transition (fill 0.3s ease-out);
+            }
+            text {
+                opacity: 1;
+            }
+            .whiteCircle {
+                display: none;
+            }
+        }
+    }
+
+    .smallCircle.deploy {
+        .hovered {
+            polygon.selectable {
+                fill: white;
+                @include transition (fill 0.3s ease-out);
+            }
+            text {
+                opacity: 1;
+            }
+            circle {
+                opacity: 0;
+            }
+        }
+        transform: scale(1.10);
+    }
+
+}
+.page-template-cluster{
+    .parentEncart{
+        margin-top: -50px;
+    }
+}
+.section__membres{
+    .shape__membres_Pink{
+        position: absolute;
+        top: 20%;
+        left: 10%;
+    }
+    .shape__membres_Blue{
+        position: absolute;
+        bottom: -100px;
+        left: -10%;
+
+    }
+}
+@-webkit-keyframes pulse {
+    0% {
+        @include scale(0.9,
+        0.9);
+    }
+    70% {
+        @include scale(1,
+        1);
+        box-shadow: 0 0 0 50px rgba(#5a99d4, 0);
+    }
+    100% {
+        @include scale(0.9,
+        0.9);
+
+        box-shadow: 0 0 0 0 rgba(#5a99d4, 0);
+    }
+}
+
+#clip-path-2:hover {
+    display: none;
+}
+
+#membres {
+
+    .name {
+        font-size: 16px;
+        color: $color7;
+        cursor: pointer;
+
+        .titre4 {
+            color: $color7;
+        }
+        @include transition(all 0.3s);
+        margin-bottom: 20px;
+        margin-top: 20px;
+        margin-right: 15px;
+        margin-left: 200px;
+        img {
+            margin-right: 10px;
+            opacity: 0;
+            @include transition(all 0.3s);
+
+        }
+        b {
+            margin-right: 10px;
+        }
+        &:hover {
+            color: $color6;
+            .titre4 {
+                color: $color6;
+            }
+            img {
+                opacity: 1;
+            }
+        }
+    }
+    li {
+        > .imgMembre {
+            position: absolute;
+            top: 75px;
+            left: -100px;
+            display: flex;
+            margin-left: -100px;
+            max-width: 250px;
+            max-height: 250px;
+            overflow: hidden;
+            opacity: 0;
+            border-radius: 3px;
+            @include transition (left 0.4s ease-out);
+        }
+        &.active {
+            .imgMembre {
+                left: -75px;
+                opacity: 1;
+            }
+            .name {
+                color: $color6;
+
+                .titre4 {
+                    color: $color6;
+                }
+                img {
+                    opacity: 1;
+                }
+            }
+        }
+    }
+
+}
+
+#interclusting {
+    position: relative;
+    left: -10px;
+}
+
+
+
+.hiddenSelect {
+    display: none;
+}
+
+@media all and (min-width: 768px) {
+
+    #pushFFC {
+        position: relative;
+        left: 76px;
+        .sideImg {
+            height: 160px;
+            position: relative;
+            left: -31px;
+        }
+    }
+    #titleFondateur{
+        position: absolute;
+    }
+    #ffc{
+        margin-top: 100px;
+    }
+}
+
+@media all and (max-width: 767px) {
+    .page-template-cluster {
+        .parentEncart {
+            margin-top: 0;
+
+        }
+        #interclusting {
+            top: -70px;
+            margin-bottom: -70px;
+            .rightBloc {
+                padding-top: 195px;
+            }
+            .titre3 {
+                margin-top: 25px;
+                margin-bottom: -10px;
+            }
+        }
+    }
+
+    #pushFFC {
+        padding-right: 10px;
+    }
+    #titleInterclustering {
+        position: relative;
+        top: 40px;
+    }
+    #Orga {
+        .custom-select {
+            display: block;
+        }
+        .select-items {
+            margin-left: 0;
+            margin-right: 0;
+        }
+        .custom-select:after {
+            top: 16px;
+            right: 11px;
+        }
+        .custom-select:hover:after {
+            top: 21px;
+        }
+        padding-top: 20px;
+        button {
+            margin-bottom: 20px;
+
+        }
+        .hideSelect {
+            display: none;
+        }
+        #schema {
+            left: 0px;
+        }
+        svg {
+            @include scale(1,
+            1);
+        }
+    }
+
+    #schema {
+        display: none;
+    }
+    #listeBtn {
+        display: block;
+    }
+    #clusterBtns {
+        width: 100%;
+    }
+    #interclusting {
+        position: relative;
+        left: -10px;
+        width: calc(100% + 40px);
+        margin-top: -80px;
+
+    }
+
+    .whiteBg--paddingSides {
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+    }
+    .section__membres{
+        .shape__membres_Pink,
+        .shape__membres_Blue{
+            display: none;
+        }
+    }
+    #membres {
+        li {
+            span {
+                display: inline-block;
+            }
+        }
+        .whiteBg {
+            padding-top: 0 !important;
+        }
+        .whiteBg {
+            padding-top: 300px;
+        }
+        li {
+            .imgMembre {
+                position: relative;
+                top: 0px;
+                display: block;
+                padding: 0!important;
+                margin: 0;
+                width: 100%;
+                max-width: 100%;
+                max-height: none;
+                height: auto;
+                border-radius: 0px;
+                opacity: 1;
+                left: 0;
+                @include transition(left 0s);
+                img {
+                    width: 100%;
+                    height: auto;
+                }
+            }
+            &.active {
+                .imgMembre {
+                    left: 0;
+                    opacity: 1;
+                    margin: 0;
+                    padding:0!important;
+                }
+            }
+        }
+
+        .name {
+            margin-left: 20px;
+            display: block;
+            & > * {
+                margin-top: 10px;
+                display: block;
+
+            }
+        }
+    }
+}

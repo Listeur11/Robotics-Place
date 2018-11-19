@@ -1,0 +1,2785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<nom><![CDATA[AGUILAR MONTORO]]></nom>
+		<prnom><![CDATA[Alberto]]></prnom>
+		<mail><![CDATA[aaguilar@suma-aerospace.com]]></mail>
+		<entreprise><![CDATA[SUMA Aerospace]]></entreprise>
+		<site><![CDATA[ www.suma-aerospace.com]]></site>
+		<domainedactivit><![CDATA[ Equipements mécatroniques]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Fournisseurs de Technologies]]></pleoudas>
+		<rue><![CDATA[ 7 avenue Didier Daurat]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31700]]></codepostal>
+		<ville><![CDATA[Blagnac]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Anglo]]></nom>
+		<prnom><![CDATA[Thomas ]]></prnom>
+		<mail><![CDATA[thomas.anglo@elter.fr]]></mail>
+		<entreprise><![CDATA[ELTER]]></entreprise>
+		<site><![CDATA[ https://www.elter.fr]]></site>
+		<domainedactivit><![CDATA[ Intelligence Artificielle (réponses à appels d'offres / prestation)]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Fournisseurs de Technologies]]></pleoudas>
+		<rue><![CDATA[ 58 rue du jeu de Paume]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31130]]></codepostal>
+		<ville><![CDATA[Balma]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Barthes]]></nom>
+		<prnom><![CDATA[Aymeric]]></prnom>
+		<mail><![CDATA[aymeric@naio-technologies.com]]></mail>
+		<entreprise><![CDATA[Naio Technologies]]></entreprise>
+		<site><![CDATA[ www.naio-technologies.com]]></site>
+		<domainedactivit><![CDATA[ Robots de desherbage pour l'agriculture]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique de Service]]></pleoudas>
+		<rue><![CDATA[ 235 Rue de la Montagne Noire]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31750]]></codepostal>
+		<ville><![CDATA[Escalquens]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Benedetti]]></nom>
+		<prnom><![CDATA[Alexandre]]></prnom>
+		<mail><![CDATA[alexandre_benedetti@orange.fr]]></mail>
+		<entreprise><![CDATA[i-TECHDRONE]]></entreprise>
+		<site><![CDATA[ ]]></site>
+		<domainedactivit><![CDATA[Prestations drones et sous-marin et conception d'applications. Distributeur des drones Civic Drone.]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Drones]]></pleoudas>
+		<rue><![CDATA[ 14 boulevard Pierre Renaudet]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[65000]]></codepostal>
+		<ville><![CDATA[Tarbes]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Benharrosh]]></nom>
+		<prnom><![CDATA[Benjamin]]></prnom>
+		<mail><![CDATA[benjamin.benharrosh@delair.aero]]></mail>
+		<entreprise><![CDATA[Delair]]></entreprise>
+		<site><![CDATA[ www.delair.aero]]></site>
+		<domainedactivit><![CDATA[ Constructeur de Drones]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Drones]]></pleoudas>
+		<rue><![CDATA[ 676, Rue Max Planck]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31670]]></codepostal>
+		<ville><![CDATA[Labège]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Bequet]]></nom>
+		<prnom><![CDATA[Josselin]]></prnom>
+		<mail><![CDATA[josselin@donecle.fr]]></mail>
+		<entreprise><![CDATA[DONECLE]]></entreprise>
+		<site><![CDATA[ www.donecle.fr]]></site>
+		<domainedactivit><![CDATA[ Concepteur d'une solution de contrôle à base de drones en essaim]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Drones]]></pleoudas>
+		<rue><![CDATA[ 231 RUE PIERRE ET MARIE CURIE]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31000]]></codepostal>
+		<ville><![CDATA[TOULOUSE]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Bontemps]]></nom>
+		<prnom><![CDATA[Fabien]]></prnom>
+		<mail><![CDATA[bontemps.f@ecagroup.com]]></mail>
+		<entreprise><![CDATA[ECA CNAI]]></entreprise>
+		<site><![CDATA[ http://www.ecagroup.com/en/aerospace/manufacturers]]></site>
+		<domainedactivit><![CDATA[ Intégrateur de Robotique Industrielle]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique Industrielle]]></pleoudas>
+		<rue><![CDATA[ 6 impasse Alice Guy]]></rue>
+		<adresse2><![CDATA[ ZAC de Saint Martin du Touch]]></adresse2>
+		<codepostal><![CDATA[31025]]></codepostal>
+		<ville><![CDATA[Toulouse]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Borde]]></nom>
+		<prnom><![CDATA[Armance]]></prnom>
+		<mail><![CDATA[armance.borde@excent.fr]]></mail>
+		<entreprise><![CDATA[EXCENT]]></entreprise>
+		<site><![CDATA[ www.excent.fr]]></site>
+		<domainedactivit><![CDATA[ Concepteur intégrateur de solutions industrielles]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique Industrielle]]></pleoudas>
+		<rue><![CDATA[ 2 avenue Léon Foucault]]></rue>
+		<adresse2><![CDATA[ ZAC du Perget]]></adresse2>
+		<codepostal><![CDATA[31770]]></codepostal>
+		<ville><![CDATA[COLOMIERS]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[BORIES ]]></nom>
+		<prnom><![CDATA[Dominique]]></prnom>
+		<mail><![CDATA[dominique.bories@nexeya.com]]></mail>
+		<entreprise><![CDATA[Midi Ingénierie]]></entreprise>
+		<site><![CDATA[ www.midi-ingenierie.com]]></site>
+		<domainedactivit><![CDATA[ Expert en contrôle moteur et mécatronique]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Fournisseurs de Technologies]]></pleoudas>
+		<rue><![CDATA[ 6 rue des frères Boudé]]></rue>
+		<adresse2><![CDATA[ ZONE INDUSTRIELLE THIBAUD]]></adresse2>
+		<codepostal><![CDATA[31100]]></codepostal>
+		<ville><![CDATA[TOULOUSE]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Bouhet]]></nom>
+		<prnom><![CDATA[Nicolas]]></prnom>
+		<mail><![CDATA[n.bouhet@mb-s.fr]]></mail>
+		<entreprise><![CDATA[HMI-MBS]]></entreprise>
+		<site><![CDATA[ www.mb-s.fr]]></site>
+		<domainedactivit><![CDATA[ Distribution des robots UR et solutions de cerclage ErgoPack]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique Industrielle]]></pleoudas>
+		<rue><![CDATA[ 22 route de Gien]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[45110]]></codepostal>
+		<ville><![CDATA[Saint Martin d'Abbat]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[BOUTTIER]]></nom>
+		<prnom><![CDATA[Jean-Louis]]></prnom>
+		<mail><![CDATA[jean.louis.bouttier@agglo-muretain.fr]]></mail>
+		<entreprise><![CDATA[Muretain Agglo]]></entreprise>
+		<site><![CDATA[ http://agglo-muretain.fr/]]></site>
+		<domainedactivit><![CDATA[ Institutionnel]]></domainedactivit>
+		<pleoudas><![CDATA[ Institutionnel]]></pleoudas>
+		<rue><![CDATA[ 8 avenue Vincent Auriol]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31600]]></codepostal>
+		<ville><![CDATA[MURET]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Briand]]></nom>
+		<prnom><![CDATA[Cyril ]]></prnom>
+		<mail><![CDATA[briand@laas.fr]]></mail>
+		<entreprise><![CDATA[AIP Primeca]]></entreprise>
+		<site><![CDATA[ http://aip-primeca.ups-tlse.fr/]]></site>
+		<domainedactivit><![CDATA[ Plateforme technique]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Education]]></pleoudas>
+		<rue><![CDATA[ 118 route de Narbonne]]></rue>
+		<adresse2><![CDATA[ Halle Technologique - ESPE - UPS]]></adresse2>
+		<codepostal><![CDATA[31078]]></codepostal>
+		<ville><![CDATA[Toulouse]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Brossard]]></nom>
+		<prnom><![CDATA[Didier]]></prnom>
+		<mail><![CDATA[d.brossard@pfit-mp.com]]></mail>
+		<entreprise><![CDATA[CFAI MP]]></entreprise>
+		<site><![CDATA[ ]]></site>
+		<domainedactivit><![CDATA[ Pôle de formation des industries technologiques - Formation continue et par alternance, conseils RH]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Education]]></pleoudas>
+		<rue><![CDATA[ Rue du mont Canigou]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31700]]></codepostal>
+		<ville><![CDATA[Beauzelle]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Carpentier]]></nom>
+		<prnom><![CDATA[Benjamin ]]></prnom>
+		<mail><![CDATA[benjamin.carpentier@yaskawa.eu.com]]></mail>
+		<entreprise><![CDATA[YASKAWA]]></entreprise>
+		<site><![CDATA[ www.yaskawa.fr]]></site>
+		<domainedactivit><![CDATA[ Fabricant de robots industriels]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique Industrielle]]></pleoudas>
+		<rue><![CDATA[ RUE NUNGESSER ET COLI]]></rue>
+		<adresse2><![CDATA[ D2A]]></adresse2>
+		<codepostal><![CDATA[44860]]></codepostal>
+		<ville><![CDATA[SAINT AIGNAN GRANDLIEU]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Caumont]]></nom>
+		<prnom><![CDATA[Céline]]></prnom>
+		<mail><![CDATA[celine.caumon@univ-tlse2.fr]]></mail>
+		<entreprise><![CDATA[ISCID]]></entreprise>
+		<site><![CDATA[ www.univ-tlse2.fr/iup-arts-appliques]]></site>
+		<domainedactivit><![CDATA[ Ecole de Design]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Education]]></pleoudas>
+		<rue><![CDATA[ 116 boulevard Montauriol]]></rue>
+		<adresse2><![CDATA[ BP 794]]></adresse2>
+		<codepostal><![CDATA[82013]]></codepostal>
+		<ville><![CDATA[MONTAUBAN]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Cazanave]]></nom>
+		<prnom><![CDATA[Grégory ]]></prnom>
+		<mail><![CDATA[gregory.cazanave@magellium.fr]]></mail>
+		<entreprise><![CDATA[Magellium]]></entreprise>
+		<site><![CDATA[ www.magellium.fr]]></site>
+		<domainedactivit><![CDATA[ Ingénierie - Géo-Information et Imagerie]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Fournisseurs de Technologies]]></pleoudas>
+		<rue><![CDATA[ 24 rue Hermès]]></rue>
+		<adresse2><![CDATA[ BP 12113]]></adresse2>
+		<codepostal><![CDATA[31521]]></codepostal>
+		<ville><![CDATA[Ramonville Saint Agne]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Chappe]]></nom>
+		<prnom><![CDATA[Frédéric]]></prnom>
+		<mail><![CDATA[frederic.chappe@microtec-agora.fr]]></mail>
+		<entreprise><![CDATA[Microtec]]></entreprise>
+		<site><![CDATA[ www.microtec-agora.fr]]></site>
+		<domainedactivit><![CDATA[ Conception et fabrication de cartes électroniques]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Fournisseurs de Technologies]]></pleoudas>
+		<rue><![CDATA[ 2321 route de Baziège]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31670]]></codepostal>
+		<ville><![CDATA[Labège]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Corso]]></nom>
+		<prnom><![CDATA[Philippe]]></prnom>
+		<mail><![CDATA[p.corso@sica2m.com]]></mail>
+		<entreprise><![CDATA[Sica2m]]></entreprise>
+		<site><![CDATA[ www.sica2m.com]]></site>
+		<domainedactivit><![CDATA[ Spécialiste de la transitique industrielle]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique Industrielle]]></pleoudas>
+		<rue><![CDATA[ 30 chemin du Chapitre]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31100]]></codepostal>
+		<ville><![CDATA[Toulouse]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Crampe]]></nom>
+		<prnom><![CDATA[Francis]]></prnom>
+		<mail><![CDATA[francis.crampe@altitem.fr]]></mail>
+		<entreprise><![CDATA[Altitem]]></entreprise>
+		<site><![CDATA[ http://altitem.fr]]></site>
+		<domainedactivit><![CDATA[ Informatique Industrielle - Automatisme]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique Industrielle]]></pleoudas>
+		<rue><![CDATA[ 445 l'Occitane]]></rue>
+		<adresse2><![CDATA[ Bât Les Oliviers]]></adresse2>
+		<codepostal><![CDATA[31673]]></codepostal>
+		<ville><![CDATA[Labège]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Dalmon]]></nom>
+		<prnom><![CDATA[Bernard]]></prnom>
+		<mail><![CDATA[bernard.dalmon@defi12.com]]></mail>
+		<entreprise><![CDATA[DEFI 12]]></entreprise>
+		<site><![CDATA[ http://www.defi-12.com/]]></site>
+		<domainedactivit><![CDATA[ Bureau d'étude / Intégrateur de robots industriels]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique Industrielle]]></pleoudas>
+		<rue><![CDATA[ 258 avenue de Rodez]]></rue>
+		<adresse2><![CDATA[ BP 20]]></adresse2>
+		<codepostal><![CDATA[12450]]></codepostal>
+		<ville><![CDATA[Luc la Primaube]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Damprund Vergnole ]]></nom>
+		<prnom><![CDATA[Joanna]]></prnom>
+		<mail><![CDATA[toulouse@instadrone.fr]]></mail>
+		<entreprise><![CDATA[Instadrone]]></entreprise>
+		<site><![CDATA[ www.instadrone.fr]]></site>
+		<domainedactivit><![CDATA[ Exploitant de drone - Prestataire de service]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Besoins et Usages]]></pleoudas>
+		<rue><![CDATA[ 9 Place Alphonse Jourdain]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31000]]></codepostal>
+		<ville><![CDATA[Toulouse]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Daydé]]></nom>
+		<prnom><![CDATA[Michel]]></prnom>
+		<mail><![CDATA[michel.dayde@irit.fr]]></mail>
+		<entreprise><![CDATA[IRIT ]]></entreprise>
+		<site><![CDATA[ www.irit.fr]]></site>
+		<domainedactivit><![CDATA[ Laboratoire de recherche en informatique]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Recherche]]></pleoudas>
+		<rue><![CDATA[ 118 Route de Narbonne]]></rue>
+		<adresse2><![CDATA[ Université Paul Sabatier]]></adresse2>
+		<codepostal><![CDATA[31062]]></codepostal>
+		<ville><![CDATA[Toulouse]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[DE SAN NICOLAS]]></nom>
+		<prnom><![CDATA[Frédéric]]></prnom>
+		<mail><![CDATA[fdsn@becom-d.fr]]></mail>
+		<entreprise><![CDATA[Becom-d]]></entreprise>
+		<site><![CDATA[ www.becom-d.fr]]></site>
+		<domainedactivit><![CDATA[ BE mécanique et design industriel]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Fournisseurs de Technologies]]></pleoudas>
+		<rue><![CDATA[ 7 bis route de Saint Privat]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[34700]]></codepostal>
+		<ville><![CDATA[Saint Jean de la Blaquière]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Delpeyroux]]></nom>
+		<prnom><![CDATA[Joël]]></prnom>
+		<mail><![CDATA[joel@mideltech.com]]></mail>
+		<entreprise><![CDATA[Mideltech]]></entreprise>
+		<site><![CDATA[ www.mideltech.com]]></site>
+		<domainedactivit><![CDATA[ Bureau d'étude Mécanique]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique Industrielle]]></pleoudas>
+		<rue><![CDATA[ 447 chemin d'Envernhe]]></rue>
+		<adresse2><![CDATA[ ZI de Pommiers]]></adresse2>
+		<codepostal><![CDATA[46400]]></codepostal>
+		<ville><![CDATA[Saint-Céré]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Desfosses]]></nom>
+		<prnom><![CDATA[Augustin]]></prnom>
+		<mail><![CDATA[augustin.desfosses@sterela.fr]]></mail>
+		<entreprise><![CDATA[STERELA]]></entreprise>
+		<site><![CDATA[ www.sterela.fr]]></site>
+		<domainedactivit><![CDATA[ Systèmes de cibles pour l'armée / Robots de logistique]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique de Service]]></pleoudas>
+		<rue><![CDATA[ 5 Impasse Pédenau]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31860]]></codepostal>
+		<ville><![CDATA[PIN-JUSTARET]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Desriac]]></nom>
+		<prnom><![CDATA[Christine]]></prnom>
+		<mail><![CDATA[christine.desriac@cetim.fr]]></mail>
+		<entreprise><![CDATA[CETIM]]></entreprise>
+		<site><![CDATA[ http://www.cetim.fr/fr]]></site>
+		<domainedactivit><![CDATA[ Institut Carnot - Mécanique]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique Industrielle]]></pleoudas>
+		<rue><![CDATA[ 2 avenue Pierre Angot]]></rue>
+		<adresse2><![CDATA[ Technopôle Hélioparc]]></adresse2>
+		<codepostal><![CDATA[64053]]></codepostal>
+		<ville><![CDATA[Pau ]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Doisy]]></nom>
+		<prnom><![CDATA[Guillaume]]></prnom>
+		<mail><![CDATA[guillaume.doisy@wyca.fr]]></mail>
+		<entreprise><![CDATA[Wyca]]></entreprise>
+		<site><![CDATA[ www.wyca.fr]]></site>
+		<domainedactivit><![CDATA[ Robots de téléprésence pour l'accueil des clients à distance]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique de Service]]></pleoudas>
+		<rue><![CDATA[ 121 route de Paris]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31140]]></codepostal>
+		<ville><![CDATA[Aucamville]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Dubois]]></nom>
+		<prnom><![CDATA[Hubert]]></prnom>
+		<mail><![CDATA[hubert.dubois@cea.fr]]></mail>
+		<entreprise><![CDATA[CEA Tech]]></entreprise>
+		<site><![CDATA[ http://www.cea-tech.fr/cea-tech/Pages/home%20temp/Accueil.aspx]]></site>
+		<domainedactivit><![CDATA[ Transfert de Technologie ]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Recherche]]></pleoudas>
+		<rue><![CDATA[ 135 avenue de Rangueil]]></rue>
+		<adresse2><![CDATA[ INSA, Bât 8]]></adresse2>
+		<codepostal><![CDATA[31400]]></codepostal>
+		<ville><![CDATA[TOULOUSE]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Duget]]></nom>
+		<prnom><![CDATA[Anne]]></prnom>
+		<mail><![CDATA[anne.duget@symetrie.fr]]></mail>
+		<entreprise><![CDATA[Symétrie]]></entreprise>
+		<site><![CDATA[ www.symetrie.fr]]></site>
+		<domainedactivit><![CDATA[ Robot hexapode de positionnement ultraprécis d'objets]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Fournisseurs de Technologies]]></pleoudas>
+		<rue><![CDATA[ 10 allée Charles Babbage]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[30000]]></codepostal>
+		<ville><![CDATA[Nimes]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Escoffre]]></nom>
+		<prnom><![CDATA[Claude]]></prnom>
+		<mail><![CDATA[claude.escoffre@nxp.com]]></mail>
+		<entreprise><![CDATA[NXP]]></entreprise>
+		<site><![CDATA[ http://www.nxp.com/]]></site>
+		<domainedactivit><![CDATA[ Fabricant de composants électroniques]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Fournisseurs de Technologies]]></pleoudas>
+		<rue><![CDATA[ 134 avenue du Général Eisenhower]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31650]]></codepostal>
+		<ville><![CDATA[TOULOUSE]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Faurie]]></nom>
+		<prnom><![CDATA[Didier]]></prnom>
+		<mail><![CDATA[didier.faurie@fanuc.eu]]></mail>
+		<entreprise><![CDATA[FANUC]]></entreprise>
+		<site><![CDATA[ http://www.fanuc.eu/fr/fr/robots]]></site>
+		<domainedactivit><![CDATA[ Constructeur de robots industriels]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique Industrielle]]></pleoudas>
+		<rue><![CDATA[ 15 Rue Léonard de Vinci]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[91090]]></codepostal>
+		<ville><![CDATA[LISSES]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Ferre]]></nom>
+		<prnom><![CDATA[Etienne]]></prnom>
+		<mail><![CDATA[etienne@kineocam.com]]></mail>
+		<entreprise><![CDATA[Siemens Industry Software]]></entreprise>
+		<site><![CDATA[ http://www.plm.automation.siemens.com/en_us/products/open/kineo/]]></site>
+		<domainedactivit><![CDATA[ Fournisseur gestion PLM et MOM]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Fournisseurs de Technologies]]></pleoudas>
+		<rue><![CDATA[ Rue de la Découverte]]></rue>
+		<adresse2><![CDATA[ Miniparc - Bât 2]]></adresse2>
+		<codepostal><![CDATA[31677]]></codepostal>
+		<ville><![CDATA[LABEGE]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Galinier]]></nom>
+		<prnom><![CDATA[Benoit]]></prnom>
+		<mail><![CDATA[b.galinier@critt-autom.com]]></mail>
+		<entreprise><![CDATA[CRITT Automatisation]]></entreprise>
+		<site><![CDATA[ www.critt-autom.com]]></site>
+		<domainedactivit><![CDATA[ Intégrateur de robots industriels / Transfert de technologie]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique Industrielle]]></pleoudas>
+		<rue><![CDATA[ Parc Technopolitain Albi-Innoprod]]></rue>
+		<adresse2><![CDATA[ 8 avenue Pierre-Gilles de Gennes]]></adresse2>
+		<codepostal><![CDATA[81000]]></codepostal>
+		<ville><![CDATA[Albi]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Geny]]></nom>
+		<prnom><![CDATA[Phillppe]]></prnom>
+		<mail><![CDATA[phil.geny@gmail.com]]></mail>
+		<entreprise><![CDATA[Drones & Co]]></entreprise>
+		<site><![CDATA[ www.drones-andco.com]]></site>
+		<domainedactivit><![CDATA[ Exploitant de Drones]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Drones]]></pleoudas>
+		<rue><![CDATA[ 39 rue des Pénitents Blancs]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[9500]]></codepostal>
+		<ville><![CDATA[MIREPOIX]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Giralt]]></nom>
+		<prnom><![CDATA[Alain]]></prnom>
+		<mail><![CDATA[alain.giralt@continental-corporation.com]]></mail>
+		<entreprise><![CDATA[Continental Automotive]]></entreprise>
+		<site><![CDATA[ http://www.conti-engineering.com/www/engineering_services_fr_fr/]]></site>
+		<domainedactivit><![CDATA[ Equipementier automobile]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Fournisseurs de Technologies]]></pleoudas>
+		<rue><![CDATA[ 1 Avenue Paul Ourliac]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31100]]></codepostal>
+		<ville><![CDATA[TOULOUSE]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Gouttefarde]]></nom>
+		<prnom><![CDATA[Marc]]></prnom>
+		<mail><![CDATA[marc.gouttefarde@lirmm.fr]]></mail>
+		<entreprise><![CDATA[LIRMM]]></entreprise>
+		<site><![CDATA[ www.lirmm.fr]]></site>
+		<domainedactivit><![CDATA[ Laboratoire de recherche du CNRS]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Recherche]]></pleoudas>
+		<rue><![CDATA[ 161 rue Ada]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[34095]]></codepostal>
+		<ville><![CDATA[Montpellier]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Guillet]]></nom>
+		<prnom><![CDATA[Bruno ]]></prnom>
+		<mail><![CDATA[bruno.guillet@madeeli.fr]]></mail>
+		<entreprise><![CDATA[AD'Occ]]></entreprise>
+		<site><![CDATA[ www.agence-adocc.com]]></site>
+		<domainedactivit><![CDATA[ Agence régionale du développement économique]]></domainedactivit>
+		<pleoudas><![CDATA[ Institutionnel]]></pleoudas>
+		<rue><![CDATA[ 11 boulevard des Récollets]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31078]]></codepostal>
+		<ville><![CDATA[TOULOUSE]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[HERRMANN]]></nom>
+		<prnom><![CDATA[Christophe]]></prnom>
+		<mail><![CDATA[christophe.hermann@scalian.com]]></mail>
+		<entreprise><![CDATA[Scalian]]></entreprise>
+		<site><![CDATA[ www.scalian.com]]></site>
+		<domainedactivit><![CDATA[ Produits et Services technologiques]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Drones]]></pleoudas>
+		<rue><![CDATA[ 417 L'Occitane]]></rue>
+		<adresse2><![CDATA[ CS77679]]></adresse2>
+		<codepostal><![CDATA[31676]]></codepostal>
+		<ville><![CDATA[Labège]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Izard]]></nom>
+		<prnom><![CDATA[Jean-Baptiste]]></prnom>
+		<mail><![CDATA[jeanbaptiste.izard@tecnalia.com]]></mail>
+		<entreprise><![CDATA[Tecnalia]]></entreprise>
+		<site><![CDATA[ www.tecnalia.com]]></site>
+		<domainedactivit><![CDATA[ Centre privé de R&D et de transfert de technologies]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Fournisseurs de Technologies]]></pleoudas>
+		<rue><![CDATA[ 950 rue Saint-Priest]]></rue>
+		<adresse2><![CDATA[ Bât. 6 - CSU]]></adresse2>
+		<codepostal><![CDATA[34090]]></codepostal>
+		<ville><![CDATA[Montpellier]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Katchynsky ]]></nom>
+		<prnom><![CDATA[Ludwig]]></prnom>
+		<mail><![CDATA[ludwig@blanc-tailleur.fr]]></mail>
+		<entreprise><![CDATA[Blanc-Tailleur]]></entreprise>
+		<site><![CDATA[ www.blanc-tailleur.fr]]></site>
+		<domainedactivit><![CDATA[ Design Industriel]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Fournisseurs de Technologies]]></pleoudas>
+		<rue><![CDATA[ Rue Cartier]]></rue>
+		<adresse2><![CDATA[ BP483]]></adresse2>
+		<codepostal><![CDATA[31315]]></codepostal>
+		<ville><![CDATA[Labège]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Labrue]]></nom>
+		<prnom><![CDATA[Stéphane]]></prnom>
+		<mail><![CDATA[labrue@iteks.fr]]></mail>
+		<entreprise><![CDATA[ITEKS]]></entreprise>
+		<site><![CDATA[ www.iteks.fr]]></site>
+		<domainedactivit><![CDATA[ Intégrateur de robots et constructeur de machines spéciales]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique Industrielle]]></pleoudas>
+		<rue><![CDATA[ Chemin du Pla]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[11190]]></codepostal>
+		<ville><![CDATA[Montazels]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Lamy-Preto]]></nom>
+		<prnom><![CDATA[Damien ]]></prnom>
+		<mail><![CDATA[damien.lamy-preto@inp-toulouse.fr]]></mail>
+		<entreprise><![CDATA[Toulouse Tech Formation Professionnelle]]></entreprise>
+		<site><![CDATA[ http://toulousetech-formation.fr/fr/index.html]]></site>
+		<domainedactivit><![CDATA[ Formation Professionnelle]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Education]]></pleoudas>
+		<rue><![CDATA[ 6 allée Emile Monso]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31029]]></codepostal>
+		<ville><![CDATA[Toulouse]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Lassabe]]></nom>
+		<prnom><![CDATA[Nicolas]]></prnom>
+		<mail><![CDATA[lassabe@artilect.fr]]></mail>
+		<entreprise><![CDATA[Artilect Lab]]></entreprise>
+		<site><![CDATA[ www.artilect.fr]]></site>
+		<domainedactivit><![CDATA[ Fablab - Association 1901]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Fournisseurs de Technologies]]></pleoudas>
+		<rue><![CDATA[ 27 bis Allée Maurice Sarraut]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31300]]></codepostal>
+		<ville><![CDATA[TOULOUSE]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Latorse]]></nom>
+		<prnom><![CDATA[Laurent]]></prnom>
+		<mail><![CDATA[laurent.latorse@airod-tech.com]]></mail>
+		<entreprise><![CDATA[AIROD Technologies]]></entreprise>
+		<site><![CDATA[ www.airod-tech.com]]></site>
+		<domainedactivit><![CDATA[ Ingénierie Mécatronique & Fabrication de machines spéciales - Drones volants, robots marins robots terrestres]]></domainedactivit>
+		<pleoudas><![CDATA[ 3 DAS]]></pleoudas>
+		<rue><![CDATA[ 3 rue du Cagire]]></rue>
+		<adresse2><![CDATA[ ZA des Pyrénées]]></adresse2>
+		<codepostal><![CDATA[31120]]></codepostal>
+		<ville><![CDATA[PINSAGUEL]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Lemoine]]></nom>
+		<prnom><![CDATA[Caël]]></prnom>
+		<mail><![CDATA[lemoinecael@hotmail.com]]></mail>
+		<entreprise><![CDATA[Co-Boy Technologies]]></entreprise>
+		<site><![CDATA[ ]]></site>
+		<domainedactivit><![CDATA[Robots aspirateurs professionnels]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique de Service]]></pleoudas>
+		<rue><![CDATA[ 7 rue Alaric II]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31000]]></codepostal>
+		<ville><![CDATA[Toulouse]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Lerasle]]></nom>
+		<prnom><![CDATA[Frédéric]]></prnom>
+		<mail><![CDATA[lerasle@laas.fr]]></mail>
+		<entreprise><![CDATA[UPSSITECH - SRI]]></entreprise>
+		<site><![CDATA[ www.iupsi.ups-tlse.fr]]></site>
+		<domainedactivit><![CDATA[Ecole d'ingénieurs]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Education]]></pleoudas>
+		<rue><![CDATA[ 118 route de Narbonne]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31400]]></codepostal>
+		<ville><![CDATA[TOULOUSE]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Lero]]></nom>
+		<prnom><![CDATA[Christophe]]></prnom>
+		<mail><![CDATA[christophe.lero@sysmeca.com]]></mail>
+		<entreprise><![CDATA[Sysmeca Ingenierie]]></entreprise>
+		<site><![CDATA[ www.sysmeca.com]]></site>
+		<domainedactivit><![CDATA[ Bureau d'études mécanique]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Fournisseurs de Technologies]]></pleoudas>
+		<rue><![CDATA[ 8 allée du Catchère]]></rue>
+		<adresse2><![CDATA[ ZAC du Perget]]></adresse2>
+		<codepostal><![CDATA[31770]]></codepostal>
+		<ville><![CDATA[COLOMIERS]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Lheritier]]></nom>
+		<prnom><![CDATA[Marion]]></prnom>
+		<mail><![CDATA[marion.lheritier@easymile.com]]></mail>
+		<entreprise><![CDATA[Easymile]]></entreprise>
+		<site><![CDATA[ www.easymile.com]]></site>
+		<domainedactivit><![CDATA[ Conception de véhicules autonomes]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique de Service]]></pleoudas>
+		<rue><![CDATA[ 3 avenue Didier Daurat]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31400]]></codepostal>
+		<ville><![CDATA[Toulouse]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Loze]]></nom>
+		<prnom><![CDATA[Dominique]]></prnom>
+		<mail><![CDATA[dominique.loze@aboard-eng.com]]></mail>
+		<entreprise><![CDATA[Aboard Engineering]]></entreprise>
+		<site><![CDATA[ http://aboard-eng.com/]]></site>
+		<domainedactivit><![CDATA[ Bureau d'études en automatique]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Fournisseurs de Technologies]]></pleoudas>
+		<rue><![CDATA[ 10 rue de la Sausse]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31240]]></codepostal>
+		<ville><![CDATA[Saint Jean]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[MAILLET]]></nom>
+		<prnom><![CDATA[Pierre ]]></prnom>
+		<mail><![CDATA[pierre.maillet@zimmerbiomet.com]]></mail>
+		<entreprise><![CDATA[Zimmer Biomet Robotics ]]></entreprise>
+		<site><![CDATA[ www.medtechsurgical.com]]></site>
+		<domainedactivit><![CDATA[ Robots chirurgicaux]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique de Service]]></pleoudas>
+		<rue><![CDATA[ ZAC Eurêka]]></rue>
+		<adresse2><![CDATA[ 900 rue du Mas de Verchant]]></adresse2>
+		<codepostal><![CDATA[34000]]></codepostal>
+		<ville><![CDATA[Montpellier]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Majorel]]></nom>
+		<prnom><![CDATA[Aurélien]]></prnom>
+		<mail><![CDATA[ama@oisfrance.com]]></mail>
+		<entreprise><![CDATA[Ocean Innovation System]]></entreprise>
+		<site><![CDATA[ www.oceaninnovationsystem.com]]></site>
+		<domainedactivit><![CDATA[ Concepteur de Robots Sous-Marins]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique de Service]]></pleoudas>
+		<rue><![CDATA[ 9 avenue de l'Europe]]></rue>
+		<adresse2><![CDATA[ CapAlpha]]></adresse2>
+		<codepostal><![CDATA[34830]]></codepostal>
+		<ville><![CDATA[Clapiers]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Mamalet]]></nom>
+		<prnom><![CDATA[Franck]]></prnom>
+		<mail><![CDATA[f.mamalet@brainchipinc.com]]></mail>
+		<entreprise><![CDATA[Brainchip]]></entreprise>
+		<site><![CDATA[ www.brainchipinc.com]]></site>
+		<domainedactivit><![CDATA[ Analyse vidéo / Reconnaissance de formes]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Fournisseurs de Technologies]]></pleoudas>
+		<rue><![CDATA[ 20 Avenue Prat Gimont]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31130]]></codepostal>
+		<ville><![CDATA[BALMA]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[MARCHADIER]]></nom>
+		<prnom><![CDATA[Laurent]]></prnom>
+		<mail><![CDATA[laurent.marchadier@beenetic.com]]></mail>
+		<entreprise><![CDATA[Beenetic]]></entreprise>
+		<site><![CDATA[ www.beenetic.com]]></site>
+		<domainedactivit><![CDATA[ Expert en capteurs]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Fournisseurs de Technologies]]></pleoudas>
+		<rue><![CDATA[ Technoparc IV]]></rue>
+		<adresse2><![CDATA[ 1 Impasse Marcel Chalard]]></adresse2>
+		<codepostal><![CDATA[31100]]></codepostal>
+		<ville><![CDATA[TOULOUSE]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Mayer]]></nom>
+		<prnom><![CDATA[Jean-Pierre]]></prnom>
+		<mail><![CDATA[mayer.jean-pierre@wanadoo.fr]]></mail>
+		<entreprise><![CDATA[MILLINAV]]></entreprise>
+		<site><![CDATA[ www.millinav.com]]></site>
+		<domainedactivit><![CDATA[ Développement d'une prothèse de genoux robotisée]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique de Service]]></pleoudas>
+		<rue><![CDATA[ 3 Rue Ariane]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31520]]></codepostal>
+		<ville><![CDATA[RAMONVILLE SAINT-AGNE]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[MAZEL]]></nom>
+		<prnom><![CDATA[Christophe]]></prnom>
+		<mail><![CDATA[christophe.mazel@boreal-uas.com]]></mail>
+		<entreprise><![CDATA[Boreal]]></entreprise>
+		<site><![CDATA[ http://www.ajs-uas.com/]]></site>
+		<domainedactivit><![CDATA[ Conception et fabrication du drone BOREAL]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Drones]]></pleoudas>
+		<rue><![CDATA[ 1 T rue de l'industrie]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31320]]></codepostal>
+		<ville><![CDATA[Castanet Tolosan]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Mercié]]></nom>
+		<prnom><![CDATA[Dominique]]></prnom>
+		<mail><![CDATA[dominique.mercie@erpo.fr]]></mail>
+		<entreprise><![CDATA[ERPO]]></entreprise>
+		<site><![CDATA[ www.erpo.fr]]></site>
+		<domainedactivit><![CDATA[ BE mécanique et fabrication]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Fournisseurs de Technologies]]></pleoudas>
+		<rue><![CDATA[ 28 avenue de l'enclos]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31120]]></codepostal>
+		<ville><![CDATA[Portet sur Garonne]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Misiak]]></nom>
+		<prnom><![CDATA[Nicolas]]></prnom>
+		<mail><![CDATA[nicolas.misiak@ublu.fr]]></mail>
+		<entreprise><![CDATA[Ublu]]></entreprise>
+		<site><![CDATA[ www.ublu.fr]]></site>
+		<domainedactivit><![CDATA[ Intégrateur de robots de services]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique de Service]]></pleoudas>
+		<rue><![CDATA[ 27 Allée du Roussillon]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31770]]></codepostal>
+		<ville><![CDATA[Colomiers]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Morelière]]></nom>
+		<prnom><![CDATA[David]]></prnom>
+		<mail><![CDATA[david.moreliere@openindus.com]]></mail>
+		<entreprise><![CDATA[OpenIndus]]></entreprise>
+		<site><![CDATA[ www.openindus.com]]></site>
+		<domainedactivit><![CDATA[ Automates modulaires open source]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Fournisseurs de Technologies]]></pleoudas>
+		<rue><![CDATA[ 10 rue Cany]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31300]]></codepostal>
+		<ville><![CDATA[Toulouse]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Noureddine]]></nom>
+		<prnom><![CDATA[Farid]]></prnom>
+		<mail><![CDATA[farid.noureddine@enit.fr]]></mail>
+		<entreprise><![CDATA[ENIT]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[Ecole d'ingénieurs]]></domainedactivit>
+		<pleoudas><![CDATA[Pôle Education]]></pleoudas>
+		<rue><![CDATA[47 avenue d'Azereix]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[65000]]></codepostal>
+		<ville><![CDATA[Tarbes]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Parlouar]]></nom>
+		<prnom><![CDATA[Rémi]]></prnom>
+		<mail><![CDATA[remi.parlouar@novalynx.fr]]></mail>
+		<entreprise><![CDATA[NOVALYNX]]></entreprise>
+		<site><![CDATA[ http://www.novalynx.fr]]></site>
+		<domainedactivit><![CDATA[ Conception et Réalisation de Solutions Industrielles]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique Industrielle]]></pleoudas>
+		<rue><![CDATA[ 35 Bis Route de Bessières]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31240]]></codepostal>
+		<ville><![CDATA[LUnion]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Pedros]]></nom>
+		<prnom><![CDATA[Jérémie]]></prnom>
+		<mail><![CDATA[jpedros@actemium.com]]></mail>
+		<entreprise><![CDATA[Actemium Toulouse Robotique]]></entreprise>
+		<site><![CDATA[ www.actemium.com]]></site>
+		<domainedactivit><![CDATA[ Intégrateur de Robotique Industrielle]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique Industrielle]]></pleoudas>
+		<rue><![CDATA[ 2 - 3 Allée de Longueterre]]></rue>
+		<adresse2><![CDATA[ Sumo Park]]></adresse2>
+		<codepostal><![CDATA[31850]]></codepostal>
+		<ville><![CDATA[MONTRABE]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Petitjean]]></nom>
+		<prnom><![CDATA[Alice]]></prnom>
+		<mail><![CDATA[alice.petitjean@sick.fr]]></mail>
+		<entreprise><![CDATA[SICK]]></entreprise>
+		<site><![CDATA[ www.sick.fr]]></site>
+		<domainedactivit><![CDATA[ Fabricant de capteurs Lidar]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Fournisseurs de Technologies]]></pleoudas>
+		<rue><![CDATA[ 21 Blv de Beaubourg]]></rue>
+		<adresse2><![CDATA[ ZI Paris Est]]></adresse2>
+		<codepostal><![CDATA[77184]]></codepostal>
+		<ville><![CDATA[Emerainville]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Pichon]]></nom>
+		<prnom><![CDATA[Philippe]]></prnom>
+		<mail><![CDATA[philippe.pichon@zodiac.com]]></mail>
+		<entreprise><![CDATA[Zodiac Pool Care]]></entreprise>
+		<site><![CDATA[ www.zodiac.com]]></site>
+		<domainedactivit><![CDATA[ Robots de piscine]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique de Service]]></pleoudas>
+		<rue><![CDATA[ ZAC Balme]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31450]]></codepostal>
+		<ville><![CDATA[BELBERAUD]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[PILOT]]></nom>
+		<prnom><![CDATA[François-Xavier]]></prnom>
+		<mail><![CDATA[fxpilot@kuka.fr]]></mail>
+		<entreprise><![CDATA[KUKA]]></entreprise>
+		<site><![CDATA[ www.kuka.fr]]></site>
+		<domainedactivit><![CDATA[ Constructeur de robots industriels]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique Industrielle]]></pleoudas>
+		<rue><![CDATA[ 6 rue du Parc]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[91140]]></codepostal>
+		<ville><![CDATA[Villebon sur Yvette]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[POINSARD]]></nom>
+		<prnom><![CDATA[Francois]]></prnom>
+		<mail><![CDATA[fpoinsard@mydigitplace.com]]></mail>
+		<entreprise><![CDATA[MyDigitPlace - GA MA Negoce]]></entreprise>
+		<site><![CDATA[ http://mydigitplace.com/]]></site>
+		<domainedactivit><![CDATA[ Intégrateur de robots de services - Intermédiaire de commerce B to B]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique de Service ]]></pleoudas>
+		<rue><![CDATA[ 3 Bis, impasse des flamboyants]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31600]]></codepostal>
+		<ville><![CDATA[LHERM]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Pollina]]></nom>
+		<prnom><![CDATA[Marc]]></prnom>
+		<mail><![CDATA[pollina@m3systems.eu]]></mail>
+		<entreprise><![CDATA[M3 Systems]]></entreprise>
+		<site><![CDATA[ www.m3systems.net]]></site>
+		<domainedactivit><![CDATA[ Navigation par satellite]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Fournisseurs de Technologies]]></pleoudas>
+		<rue><![CDATA[ 26 rue du Soleil Levant]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31410]]></codepostal>
+		<ville><![CDATA[Lavernose]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Pradier]]></nom>
+		<prnom><![CDATA[Franck]]></prnom>
+		<mail><![CDATA[franck.pradier@semo.fr]]></mail>
+		<entreprise><![CDATA[SEMO]]></entreprise>
+		<site><![CDATA[ www.semo.fr]]></site>
+		<domainedactivit><![CDATA[ Intégrateur de robots industriels]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique Industrielle]]></pleoudas>
+		<rue><![CDATA[ 10 rue Louis Breguet]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31700]]></codepostal>
+		<ville><![CDATA[Cornebarrieu]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Privat]]></nom>
+		<prnom><![CDATA[Edmond]]></prnom>
+		<mail><![CDATA[edmond.privat@eiffage.com]]></mail>
+		<entreprise><![CDATA[Eiffage Energie]]></entreprise>
+		<site><![CDATA[ www.eiffageenergie.com]]></site>
+		<domainedactivit><![CDATA[ Intégrateur de Robotique Industrielle]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique Industrielle]]></pleoudas>
+		<rue><![CDATA[ 26 Rue du Trauc]]></rue>
+		<adresse2><![CDATA[ Z.A. Bel Air  ]]></adresse2>
+		<codepostal><![CDATA[12510]]></codepostal>
+		<ville><![CDATA[Druelle]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Rharmaoui]]></nom>
+		<prnom><![CDATA[Ahmed ]]></prnom>
+		<mail><![CDATA[ahmed.rharmaoui@imerir.com]]></mail>
+		<entreprise><![CDATA[IMERIR]]></entreprise>
+		<site><![CDATA[ www.imerir.com]]></site>
+		<domainedactivit><![CDATA[ Ecole d'ingénieurs]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Education]]></pleoudas>
+		<rue><![CDATA[ Avenue Paul Pascot]]></rue>
+		<adresse2><![CDATA[ BP 90443]]></adresse2>
+		<codepostal><![CDATA[66004]]></codepostal>
+		<ville><![CDATA[Perpignan]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Rivière]]></nom>
+		<prnom><![CDATA[Laurent]]></prnom>
+		<mail><![CDATA[laurent@sunbirds.aero]]></mail>
+		<entreprise><![CDATA[Sunbirds]]></entreprise>
+		<site><![CDATA[ www.sunbirds-uas.com]]></site>
+		<domainedactivit><![CDATA[ Fabricant de drones]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Drones]]></pleoudas>
+		<rue><![CDATA[ 231 rue Pierre et Marie Curie]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31670]]></codepostal>
+		<ville><![CDATA[Labège]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[ROBERT]]></nom>
+		<prnom><![CDATA[Fabrice]]></prnom>
+		<mail><![CDATA[fabrice.robert@sogeti.com]]></mail>
+		<entreprise><![CDATA[Sogeti High Tech]]></entreprise>
+		<site><![CDATA[ www.sogeti-hightech.fr]]></site>
+		<domainedactivit><![CDATA[ SSII -> 50 personnes dans l'équipe développent sur le comportement collaboratif des robots]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Fournisseurs de Technologies]]></pleoudas>
+		<rue><![CDATA[ Avenue de l'Escadrille Normandie Niemen]]></rue>
+		<adresse2><![CDATA[ Parc du Millénaire - Bât 2]]></adresse2>
+		<codepostal><![CDATA[31703]]></codepostal>
+		<ville><![CDATA[BLAGNAC]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Roussel]]></nom>
+		<prnom><![CDATA[Philippe]]></prnom>
+		<mail><![CDATA[philippe.roussel@enjolivure.com]]></mail>
+		<entreprise><![CDATA[PRO Consulting]]></entreprise>
+		<site><![CDATA[ http://proconsulting.apps-1and1.net/]]></site>
+		<domainedactivit><![CDATA[ Consultant - Animateur de Robotics Place - Délégué Général de la Fédération Française des Clusters de la Robotique]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Fournisseurs de Technologies]]></pleoudas>
+		<rue><![CDATA[ 250 route de Belberaud]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31450]]></codepostal>
+		<ville><![CDATA[MONTLAUR]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Rumeau]]></nom>
+		<prnom><![CDATA[Bertrand]]></prnom>
+		<mail><![CDATA[bertrand.rumeau@rcp-fr.com]]></mail>
+		<entreprise><![CDATA[NODEA]]></entreprise>
+		<site><![CDATA[ www.nodea-industries.com/fr]]></site>
+		<domainedactivit><![CDATA[ Consortium nouvelle génération d'experts de l'outillage ]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique Industrielle]]></pleoudas>
+		<rue><![CDATA[ ZA de Lauzard]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[82370]]></codepostal>
+		<ville><![CDATA[LABASTIDE SAINT-PIERRE]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Salvayre]]></nom>
+		<prnom><![CDATA[Marc]]></prnom>
+		<mail><![CDATA[marc.salvayre@sr-connect.fr]]></mail>
+		<entreprise><![CDATA[SR Connect]]></entreprise>
+		<site><![CDATA[ www.sr-connect.fr]]></site>
+		<domainedactivit><![CDATA[ Formateur au pilotage de drones / Diffuseur d'une solution d'effarouchage des oiseaux]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Drones]]></pleoudas>
+		<rue><![CDATA[ 106 impasse du cottage]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[81500]]></codepostal>
+		<ville><![CDATA[Fiac]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Sanchez]]></nom>
+		<prnom><![CDATA[Georges]]></prnom>
+		<mail><![CDATA[georges.sanchez@infranor.com]]></mail>
+		<entreprise><![CDATA[Infranor]]></entreprise>
+		<site><![CDATA[ www.infranor.com]]></site>
+		<domainedactivit><![CDATA[ Fournisseur de Servo-variateurs]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Fournisseurs de Technologies]]></pleoudas>
+		<rue><![CDATA[ 29 rue Jean Moulin]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[65100]]></codepostal>
+		<ville><![CDATA[Lourdes]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Sidobre]]></nom>
+		<prnom><![CDATA[Daniel]]></prnom>
+		<mail><![CDATA[daniel.sidobre@laas.fr]]></mail>
+		<entreprise><![CDATA[LAAS]]></entreprise>
+		<site><![CDATA[ www.laas.fr]]></site>
+		<domainedactivit><![CDATA[ Laboratoire de recherche du CNRS]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Recherche]]></pleoudas>
+		<rue><![CDATA[ 7 avenue du Colonel Roche]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31077]]></codepostal>
+		<ville><![CDATA[TOULOUSE]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[SOURY]]></nom>
+		<prnom><![CDATA[Antony]]></prnom>
+		<mail><![CDATA[antony@antracite.fr]]></mail>
+		<entreprise><![CDATA[Antracite]]></entreprise>
+		<site><![CDATA[ www.antracite.fr]]></site>
+		<domainedactivit><![CDATA[ Studio de conception de produits industriels, Design]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Fournisseurs de Technologies]]></pleoudas>
+		<rue><![CDATA[ 10 rue des Arts]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31000]]></codepostal>
+		<ville><![CDATA[Toulouse]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Stoof]]></nom>
+		<prnom><![CDATA[Freddy]]></prnom>
+		<mail><![CDATA[freddy@epur.io]]></mail>
+		<entreprise><![CDATA[EPUR]]></entreprise>
+		<site><![CDATA[ www.epur.io]]></site>
+		<domainedactivit><![CDATA[ Conception d'outils innovants dans le domaine du bâtiment]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique de Service]]></pleoudas>
+		<rue><![CDATA[ Hameau de Caillens]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[11140]]></codepostal>
+		<ville><![CDATA[Rodome]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Talon]]></nom>
+		<prnom><![CDATA[Benjamin]]></prnom>
+		<mail><![CDATA[benjamin.talon@soben.fr]]></mail>
+		<entreprise><![CDATA[Soben]]></entreprise>
+		<site><![CDATA[ www.soben.fr]]></site>
+		<domainedactivit><![CDATA[ Equipementier automobile et aéronautique + développement Droïde]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique de Service]]></pleoudas>
+		<rue><![CDATA[ Village artisanal de Regourd]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[46000]]></codepostal>
+		<ville><![CDATA[Cahors]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[THOMAS]]></nom>
+		<prnom><![CDATA[Eric]]></prnom>
+		<mail><![CDATA[ethomas@rockwellcollins.com]]></mail>
+		<entreprise><![CDATA[Rockwell Collins France]]></entreprise>
+		<site><![CDATA[ www.rockwellcollins.com]]></site>
+		<domainedactivit><![CDATA[ Conception de solutions dans le secteur des drônes]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Drones]]></pleoudas>
+		<rue><![CDATA[ 6 avenue Didier Daurat]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31700]]></codepostal>
+		<ville><![CDATA[BLAGNAC]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Tirard]]></nom>
+		<prnom><![CDATA[Sébastien]]></prnom>
+		<mail><![CDATA[sebastien.tirard@tenwhil.com]]></mail>
+		<entreprise><![CDATA[Tenwhil]]></entreprise>
+		<site><![CDATA[ www.tenwhil.com]]></site>
+		<domainedactivit><![CDATA[ Etudes, programmation et mise en route d'installations robotisées]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Robotique Industrielle]]></pleoudas>
+		<rue><![CDATA[ 1 rue Chappe]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[78130]]></codepostal>
+		<ville><![CDATA[Les Mureaux]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Tondu]]></nom>
+		<prnom><![CDATA[Bertrand]]></prnom>
+		<mail><![CDATA[tondu@insa-toulouse.fr]]></mail>
+		<entreprise><![CDATA[INSA]]></entreprise>
+		<site><![CDATA[ http://www.insa-toulouse.fr]]></site>
+		<domainedactivit><![CDATA[Ecole d'ingénieurs]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Education]]></pleoudas>
+		<rue><![CDATA[ 135 avenue de Rangueil]]></rue>
+		<adresse2><![CDATA[ CS 97704]]></adresse2>
+		<codepostal><![CDATA[31077]]></codepostal>
+		<ville><![CDATA[TOULOUSE]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Tournet]]></nom>
+		<prnom><![CDATA[Antoine]]></prnom>
+		<mail><![CDATA[antoine.tournet@diodon-drone.com]]></mail>
+		<entreprise><![CDATA[Diodon Drone Technology]]></entreprise>
+		<site><![CDATA[ http://diodon-drone.com/fr/]]></site>
+		<domainedactivit><![CDATA[ Constructeur de Drones]]></domainedactivit>
+		<pleoudas><![CDATA[ DAS Drones]]></pleoudas>
+		<rue><![CDATA[ 20 rue Francisque SARCEY]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31000]]></codepostal>
+		<ville><![CDATA[TOULOUSE]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[TRUNTZLER ]]></nom>
+		<prnom><![CDATA[Luc]]></prnom>
+		<mail><![CDATA[luc@inbenta.com]]></mail>
+		<entreprise><![CDATA[Inbenta]]></entreprise>
+		<site><![CDATA[ www.inbenta.fr]]></site>
+		<domainedactivit><![CDATA[ Traitement Automatique du Langage ]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Fournisseurs de Technologies]]></pleoudas>
+		<rue><![CDATA[ 164 Route de Revel]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31400]]></codepostal>
+		<ville><![CDATA[Toulouse]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Vagner]]></nom>
+		<prnom><![CDATA[Renaud]]></prnom>
+		<mail><![CDATA[renaud.vagner@icam.fr]]></mail>
+		<entreprise><![CDATA[ICAM]]></entreprise>
+		<site><![CDATA[ www.icam.fr]]></site>
+		<domainedactivit><![CDATA[ Ecole d'ingénieurs]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Education]]></pleoudas>
+		<rue><![CDATA[ 75 avenue de Grande Bretagne]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31300]]></codepostal>
+		<ville><![CDATA[TOULOUSE]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Vaisse]]></nom>
+		<prnom><![CDATA[Gilles]]></prnom>
+		<mail><![CDATA[agvmeca@gmail.com]]></mail>
+		<entreprise><![CDATA[AGV Mécatronique]]></entreprise>
+		<site><![CDATA[ ]]></site>
+		<domainedactivit><![CDATA[Maintenance et amélioration de machines outils]]></domainedactivit>
+		<pleoudas><![CDATA[DAS Robotique Industrielle]]></pleoudas>
+		<rue><![CDATA[ 4 Avenue de la Pélatié]]></rue>
+		<adresse2><![CDATA[ ZA RIEUMAS]]></adresse2>
+		<codepostal><![CDATA[81150]]></codepostal>
+		<ville><![CDATA[MARSSAC SUR TARN]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Viazzi]]></nom>
+		<prnom><![CDATA[Céline]]></prnom>
+		<mail><![CDATA[cviazzi@cesi.fr]]></mail>
+		<entreprise><![CDATA[CESI]]></entreprise>
+		<site><![CDATA[ http://cesi.fr/]]></site>
+		<domainedactivit><![CDATA[ Formation diplomante]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Education]]></pleoudas>
+		<rue><![CDATA[ 16 rue Magellan]]></rue>
+		<adresse2><![CDATA[ ]]></adresse2>
+		<codepostal><![CDATA[31670]]></codepostal>
+		<ville><![CDATA[Labège]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Vidal]]></nom>
+		<prnom><![CDATA[Bernard]]></prnom>
+		<mail><![CDATA[pft.beziers@orange.fr]]></mail>
+		<entreprise><![CDATA[PFT 34 Méc@innov]]></entreprise>
+		<site><![CDATA[ http://www.pft34mecainnov.com/]]></site>
+		<domainedactivit><![CDATA[ Plateforme Technologique]]></domainedactivit>
+		<pleoudas><![CDATA[ Pôle Education]]></pleoudas>
+		<rue><![CDATA[ Avenue des Martyrs de la résistance]]></rue>
+		<adresse2><![CDATA[ BP745]]></adresse2>
+		<codepostal><![CDATA[34521]]></codepostal>
+		<ville><![CDATA[Béziers]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Albenque]]></nom>
+		<prnom><![CDATA[Hervé]]></prnom>
+		<mail><![CDATA[halbenque@suma-aerospace.com]]></mail>
+		<entreprise><![CDATA[SUMA Aerospace]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[BACH ]]></nom>
+		<prnom><![CDATA[Sebastien]]></prnom>
+		<mail><![CDATA[sebastien.bach@novalynx.fr]]></mail>
+		<entreprise><![CDATA[NOVALYNX]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Badr]]></nom>
+		<prnom><![CDATA[Diana]]></prnom>
+		<mail><![CDATA[diana.badr@sterela.fr]]></mail>
+		<entreprise><![CDATA[STERELA]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Barthou]]></nom>
+		<prnom><![CDATA[Xavier]]></prnom>
+		<mail><![CDATA[x.barthou@sica2m.com]]></mail>
+		<entreprise><![CDATA[Sica2m]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Baudet]]></nom>
+		<prnom><![CDATA[Pierre]]></prnom>
+		<mail><![CDATA[pierre.baudet@excent.fr]]></mail>
+		<entreprise><![CDATA[Excent]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Becheras]]></nom>
+		<prnom><![CDATA[Elodie]]></prnom>
+		<mail><![CDATA[elodie.becheras@univ-tlse2.fr]]></mail>
+		<entreprise><![CDATA[ISCID]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Bertaux]]></nom>
+		<prnom><![CDATA[Florence]]></prnom>
+		<mail><![CDATA[Florence.Bertaux@fanuc.eu]]></mail>
+		<entreprise><![CDATA[FANUC]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Besozzi]]></nom>
+		<prnom><![CDATA[Matthieu]]></prnom>
+		<mail><![CDATA[matthieu.besozzi@wyca.fr]]></mail>
+		<entreprise><![CDATA[Wyca]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Bezard]]></nom>
+		<prnom><![CDATA[Gilles]]></prnom>
+		<mail><![CDATA[g.bezard@spikenet-technology.com]]></mail>
+		<entreprise><![CDATA[Brainchip]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[BIANIC]]></nom>
+		<prnom><![CDATA[Jean-christophe]]></prnom>
+		<mail><![CDATA[Jean-christophe.BIANIC@scalian.com]]></mail>
+		<entreprise><![CDATA[Scalian]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Blanc-Tailleur]]></nom>
+		<prnom><![CDATA[Philippe]]></prnom>
+		<mail><![CDATA[philippe@blanc-tailleur.fr]]></mail>
+		<entreprise><![CDATA[Blanc-Tailleur]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Bodin]]></nom>
+		<prnom><![CDATA[Laurent]]></prnom>
+		<mail><![CDATA[laurent.bodin@yaskawa.eu.com]]></mail>
+		<entreprise><![CDATA[YASKAWA]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Bonhomme]]></nom>
+		<prnom><![CDATA[Didier]]></prnom>
+		<mail><![CDATA[didier.bonhomme@excent.fr]]></mail>
+		<entreprise><![CDATA[Excent]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Bornand]]></nom>
+		<prnom><![CDATA[Jacques]]></prnom>
+		<mail><![CDATA[bornand.j@ecagroup.com]]></mail>
+		<entreprise><![CDATA[ECA CNAI]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Brelet]]></nom>
+		<prnom><![CDATA[Gael]]></prnom>
+		<mail><![CDATA[gael.brelet@delair.aero]]></mail>
+		<entreprise><![CDATA[Delair]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Brisy]]></nom>
+		<prnom><![CDATA[Alban]]></prnom>
+		<mail><![CDATA[alban.brisy@easymile.com]]></mail>
+		<entreprise><![CDATA[Easymile]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[BRY]]></nom>
+		<prnom><![CDATA[Joel]]></prnom>
+		<mail><![CDATA[contact@nodea-industries.com ]]></mail>
+		<entreprise><![CDATA[NODEA]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Budinger]]></nom>
+		<prnom><![CDATA[Marc]]></prnom>
+		<mail><![CDATA[marc.budinger@insa-toulouse.fr ]]></mail>
+		<entreprise><![CDATA[INSA]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[BUORO ]]></nom>
+		<prnom><![CDATA[Simon]]></prnom>
+		<mail><![CDATA[simon.buoro@excent.fr]]></mail>
+		<entreprise><![CDATA[Excent]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Busmey]]></nom>
+		<prnom><![CDATA[Quentin]]></prnom>
+		<mail><![CDATA[quentin.busmey@excent.fr]]></mail>
+		<entreprise><![CDATA[Excent]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Calado]]></nom>
+		<prnom><![CDATA[Raphaël]]></prnom>
+		<mail><![CDATA[r.calado@mb-s.fr]]></mail>
+		<entreprise><![CDATA[HMI-MBS ]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Carles]]></nom>
+		<prnom><![CDATA[Jérôme]]></prnom>
+		<mail><![CDATA[jerome.carles@excent.fr]]></mail>
+		<entreprise><![CDATA[Excent]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Castelli]]></nom>
+		<prnom><![CDATA[Thomas]]></prnom>
+		<mail><![CDATA[thomas.castelli@magellium.fr]]></mail>
+		<entreprise><![CDATA[Magellium]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[CHAFIK]]></nom>
+		<prnom><![CDATA[Mehdi]]></prnom>
+		<mail><![CDATA[mehdi.chafik@zodiac.com]]></mail>
+		<entreprise><![CDATA[Zodiac Pool Care]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Chikh]]></nom>
+		<prnom><![CDATA[Lotfi]]></prnom>
+		<mail><![CDATA[lotfi.chikh@tecnalia.com]]></mail>
+		<entreprise><![CDATA[Tecnalia]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Chomienne]]></nom>
+		<prnom><![CDATA[Stephane]]></prnom>
+		<mail><![CDATA[stephane.chomienne@eu.omron.com]]></mail>
+		<entreprise><![CDATA[Omron]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Claustre]]></nom>
+		<prnom><![CDATA[Isabelle]]></prnom>
+		<mail><![CDATA[isabelle@epur.io]]></mail>
+		<entreprise><![CDATA[EPUR]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Claybrough]]></nom>
+		<prnom><![CDATA[Matthieu]]></prnom>
+		<mail><![CDATA[matthieu@donecle.fr]]></mail>
+		<entreprise><![CDATA[DONECLE]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Coiseur]]></nom>
+		<prnom><![CDATA[Florian]]></prnom>
+		<mail><![CDATA[Florian.Coiseur@zimmerbiomet.com]]></mail>
+		<entreprise><![CDATA[Zimmer Biomet Robotics ]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Collin]]></nom>
+		<prnom><![CDATA[Nicolas]]></prnom>
+		<mail><![CDATA[nicolas.collin@excent.fr]]></mail>
+		<entreprise><![CDATA[Excent]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Communication]]></nom>
+		<prnom><![CDATA[Service]]></prnom>
+		<mail><![CDATA[communication@excent.fr]]></mail>
+		<entreprise><![CDATA[Excent]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Cretal]]></nom>
+		<prnom><![CDATA[Darany]]></prnom>
+		<mail><![CDATA[darany.cretal@yaskawa.eu.com]]></mail>
+		<entreprise><![CDATA[YASKAWA]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Culoto]]></nom>
+		<prnom><![CDATA[Thomas]]></prnom>
+		<mail><![CDATA[thomas.culoto@altitem.fr]]></mail>
+		<entreprise><![CDATA[Altitem]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Dattanasio]]></nom>
+		<prnom><![CDATA[Simona]]></prnom>
+		<mail><![CDATA[simona.dattanasio@icam.fr]]></mail>
+		<entreprise><![CDATA[ICAM]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[de Roquette]]></nom>
+		<prnom><![CDATA[Nicolas]]></prnom>
+		<mail><![CDATA[nicolas.deroquette@wyca.fr]]></mail>
+		<entreprise><![CDATA[Wyca]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[DECAMPS]]></nom>
+		<prnom><![CDATA[Henri]]></prnom>
+		<mail><![CDATA[henri.decamps@inp-toulouse.fr]]></mail>
+		<entreprise><![CDATA[Toulouse Tech Formation Professionnelle]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Delagarde]]></nom>
+		<prnom><![CDATA[Michael]]></prnom>
+		<mail><![CDATA[michael.delagarde@delair.aero]]></mail>
+		<entreprise><![CDATA[Delair]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Delahaye]]></nom>
+		<prnom><![CDATA[Olivier]]></prnom>
+		<mail><![CDATA[olivier.delahaye@inp-toulouse.fr]]></mail>
+		<entreprise><![CDATA[Toulouse Tech Formation Professionnelle]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[DELOCHE]]></nom>
+		<prnom><![CDATA[Rémi]]></prnom>
+		<mail><![CDATA[remi.deloche@zodiac.com]]></mail>
+		<entreprise><![CDATA[Zodiac Pool Care]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Delugeau]]></nom>
+		<prnom><![CDATA[Antoine]]></prnom>
+		<mail><![CDATA[Antoine.delugeau@scalian.com]]></mail>
+		<entreprise><![CDATA[Scalian]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[DERUAZ-PEPIN]]></nom>
+		<prnom><![CDATA[Alban]]></prnom>
+		<mail><![CDATA[alban@donecle.fr]]></mail>
+		<entreprise><![CDATA[DONECLE]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Desenfans]]></nom>
+		<prnom><![CDATA[Olivier]]></prnom>
+		<mail><![CDATA[desenfans@m3systems.net]]></mail>
+		<entreprise><![CDATA[M3 Systems]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Dewet]]></nom>
+		<prnom><![CDATA[Clément]]></prnom>
+		<mail><![CDATA[clement.dewet@excent.fr]]></mail>
+		<entreprise><![CDATA[Excent]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Dhombre]]></nom>
+		<prnom><![CDATA[Renaud]]></prnom>
+		<mail><![CDATA[r.dhombre@critt-autom.com]]></mail>
+		<entreprise><![CDATA[CRIIT Automatisation]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Diulein]]></nom>
+		<prnom><![CDATA[Amaury]]></prnom>
+		<mail><![CDATA[adiulein@inbenta.com]]></mail>
+		<entreprise><![CDATA[Inbenta]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[El Zaher]]></nom>
+		<prnom><![CDATA[Madeleine]]></prnom>
+		<mail><![CDATA[melzaher@cesi.fr]]></mail>
+		<entreprise><![CDATA[CESI]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Faure]]></nom>
+		<prnom><![CDATA[Alexandre]]></prnom>
+		<mail><![CDATA[alexandre.faure@excent.fr]]></mail>
+		<entreprise><![CDATA[Excent]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Fèche]]></nom>
+		<prnom><![CDATA[Virginie]]></prnom>
+		<mail><![CDATA[virginie.feche@lirmm.fr]]></mail>
+		<entreprise><![CDATA[LIRMM]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Fernandez]]></nom>
+		<prnom><![CDATA[Jose Manuel]]></prnom>
+		<mail><![CDATA[jose.fernandez@sterela.fr]]></mail>
+		<entreprise><![CDATA[STERELA]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Fillatreau]]></nom>
+		<prnom><![CDATA[Philippe]]></prnom>
+		<mail><![CDATA[philippe.fillatreau@enit.fr]]></mail>
+		<entreprise><![CDATA[ENIT]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Fournols ]]></nom>
+		<prnom><![CDATA[Nadia]]></prnom>
+		<mail><![CDATA[nadia.fournols@sterela.fr]]></mail>
+		<entreprise><![CDATA[STERELA]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Fraisse]]></nom>
+		<prnom><![CDATA[Philippe]]></prnom>
+		<mail><![CDATA[philippe.fraisse@lirmm.fr]]></mail>
+		<entreprise><![CDATA[LIRMM]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[François]]></nom>
+		<prnom><![CDATA[Maxence]]></prnom>
+		<mail><![CDATA[Maxence.Francois@zimmerbiomet.com]]></mail>
+		<entreprise><![CDATA[Zimmer Biomet Robotics ]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Gaufreteau]]></nom>
+		<prnom><![CDATA[Marc]]></prnom>
+		<mail><![CDATA[marc.gaufreteau@fanuc.eu]]></mail>
+		<entreprise><![CDATA[FANUC]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[GAUTREAU]]></nom>
+		<prnom><![CDATA[Thierry]]></prnom>
+		<mail><![CDATA[Thierry.Gautreau@cetim.fr]]></mail>
+		<entreprise><![CDATA[CETIM]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Gavart]]></nom>
+		<prnom><![CDATA[Michel]]></prnom>
+		<mail><![CDATA[michel.gavart@ajs-uas.com]]></mail>
+		<entreprise><![CDATA[AJS - Borel - Mistral]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Gayde]]></nom>
+		<prnom><![CDATA[Vincent]]></prnom>
+		<mail><![CDATA[vincent.gayde@microtec-agora.fr]]></mail>
+		<entreprise><![CDATA[Microtec]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Germa ]]></nom>
+		<prnom><![CDATA[Thierry]]></prnom>
+		<mail><![CDATA[thierry.germa@magellium.fr]]></mail>
+		<entreprise><![CDATA[Magellium]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Grougon]]></nom>
+		<prnom><![CDATA[Thomas]]></prnom>
+		<mail><![CDATA[contact@antracite.fr]]></mail>
+		<entreprise><![CDATA[Antracite]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[HARDOUIN]]></nom>
+		<prnom><![CDATA[Marie-Amandine]]></prnom>
+		<mail><![CDATA[marie.hardouin@actemium.com]]></mail>
+		<entreprise><![CDATA[Actemium]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Hernandez]]></nom>
+		<prnom><![CDATA[Marc]]></prnom>
+		<mail><![CDATA[marc.hernandez@erpo.fr]]></mail>
+		<entreprise><![CDATA[ERPO]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Hourquet]]></nom>
+		<prnom><![CDATA[Patricia]]></prnom>
+		<mail><![CDATA[patricia.hourquet@m3systems.eu]]></mail>
+		<entreprise><![CDATA[M3 Systems]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Jacquot]]></nom>
+		<prnom><![CDATA[Olivier]]></prnom>
+		<mail><![CDATA[olivier.jacquot@eu.omron.com]]></mail>
+		<entreprise><![CDATA[Omron]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[JUHEL]]></nom>
+		<prnom><![CDATA[Philippe]]></prnom>
+		<mail><![CDATA[philippe.juhel@icam.fr]]></mail>
+		<entreprise><![CDATA[ICAM]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Lacroix]]></nom>
+		<prnom><![CDATA[Simon]]></prnom>
+		<mail><![CDATA[simon@laas.fr]]></mail>
+		<entreprise><![CDATA[LAAS]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Lamiraux]]></nom>
+		<prnom><![CDATA[Florent]]></prnom>
+		<mail><![CDATA[florent.lamiraux@laas.fr]]></mail>
+		<entreprise><![CDATA[LAAS]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Landais]]></nom>
+		<prnom><![CDATA[Thierry]]></prnom>
+		<mail><![CDATA[thierry.landais@eu.omron.com]]></mail>
+		<entreprise><![CDATA[Omron]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[le Directeur]]></nom>
+		<prnom><![CDATA[Monsieur]]></prnom>
+		<mail><![CDATA[directeur@enit.fr]]></mail>
+		<entreprise><![CDATA[ENIT]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Lefebvre]]></nom>
+		<prnom><![CDATA[Thierry]]></prnom>
+		<mail><![CDATA[thierry.lefebvre@tenwhil.com]]></mail>
+		<entreprise><![CDATA[Tenwhil]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Legourrierec]]></nom>
+		<prnom><![CDATA[Alban]]></prnom>
+		<mail><![CDATA[alban.legourrierec@excent.fr]]></mail>
+		<entreprise><![CDATA[Excent]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Legrand]]></nom>
+		<prnom><![CDATA[Yves]]></prnom>
+		<mail><![CDATA[Yves.Legrand@nxp.com]]></mail>
+		<entreprise><![CDATA[NXP (Freescale)]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Lenoir]]></nom>
+		<prnom><![CDATA[Philippe]]></prnom>
+		<mail><![CDATA[philippe.lenoir@semo.fr]]></mail>
+		<entreprise><![CDATA[SEMO]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Lepetit]]></nom>
+		<prnom><![CDATA[Pierre]]></prnom>
+		<mail><![CDATA[pierre.lepetit@eemau.fr]]></mail>
+		<entreprise><![CDATA[EEMAU Industrie]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Lopez]]></nom>
+		<prnom><![CDATA[David]]></prnom>
+		<mail><![CDATA[david.lopez@nxp.com]]></mail>
+		<entreprise><![CDATA[NXP (Freescale)]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Lormières]]></nom>
+		<prnom><![CDATA[Julie]]></prnom>
+		<mail><![CDATA[j.lormieres@pfit-mp.com]]></mail>
+		<entreprise><![CDATA[CFAI MP]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Louw]]></nom>
+		<prnom><![CDATA[Eric]]></prnom>
+		<mail><![CDATA[eric.louw@excent.fr]]></mail>
+		<entreprise><![CDATA[Excent]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Luciani]]></nom>
+		<prnom><![CDATA[Roman]]></prnom>
+		<mail><![CDATA[roman.luciani@diodon-drone.com]]></mail>
+		<entreprise><![CDATA[Diodon Drone Technology]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[MAGLIOCCA]]></nom>
+		<prnom><![CDATA[Elise]]></prnom>
+		<mail><![CDATA[Elise.MAGLIOCCA@excent.fr]]></mail>
+		<entreprise><![CDATA[Excent]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Malaval]]></nom>
+		<prnom><![CDATA[Loic]]></prnom>
+		<mail><![CDATA[loic.malaval@eiffage.com]]></mail>
+		<entreprise><![CDATA[Eiffage Energie]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Marques]]></nom>
+		<prnom><![CDATA[Laurence]]></prnom>
+		<mail><![CDATA[l.marques@pfit-mp.com]]></mail>
+		<entreprise><![CDATA[CFAI MP]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Matos]]></nom>
+		<prnom><![CDATA[Pierre-Michel]]></prnom>
+		<mail><![CDATA[pierre-michel.matos@eiffage.com]]></mail>
+		<entreprise><![CDATA[Eiffage Energie]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Mazet]]></nom>
+		<prnom><![CDATA[Pierre]]></prnom>
+		<mail><![CDATA[pierre@blanc-tailleur.fr]]></mail>
+		<entreprise><![CDATA[Blanc-Tailleur]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Misiak]]></nom>
+		<prnom><![CDATA[Nicolas]]></prnom>
+		<mail><![CDATA[nicolas.misiak@ublu.fr]]></mail>
+		<entreprise><![CDATA[Ublu]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Morel]]></nom>
+		<prnom><![CDATA[Pascaline]]></prnom>
+		<mail><![CDATA[pascaline@mideltech.com]]></mail>
+		<entreprise><![CDATA[Mideltech]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Morin]]></nom>
+		<prnom><![CDATA[Philippe]]></prnom>
+		<mail><![CDATA[philippe.morin@cetim.fr]]></mail>
+		<entreprise><![CDATA[CETIM]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Mousset]]></nom>
+		<prnom><![CDATA[Michel]]></prnom>
+		<mail><![CDATA[michel.mousset@cetim.fr]]></mail>
+		<entreprise><![CDATA[CETIM]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Novat]]></nom>
+		<prnom><![CDATA[Didier]]></prnom>
+		<mail><![CDATA[didier.novat@sick.fr]]></mail>
+		<entreprise><![CDATA[SICK]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Oller]]></nom>
+		<prnom><![CDATA[Guillaume]]></prnom>
+		<mail><![CDATA[guillaume.oller@magellium.fr]]></mail>
+		<entreprise><![CDATA[Magellium]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Pierucci]]></nom>
+		<prnom><![CDATA[Marie-Laure]]></prnom>
+		<mail><![CDATA[pierucci@laas.fr]]></mail>
+		<entreprise><![CDATA[LAAS]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Plé]]></nom>
+		<prnom><![CDATA[Morgan]]></prnom>
+		<mail><![CDATA[morgan.ple@eemau.fr]]></mail>
+		<entreprise><![CDATA[EEMAU Industrie]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Poisvert]]></nom>
+		<prnom><![CDATA[Rémi]]></prnom>
+		<mail><![CDATA[remi.poisvert@scalian.com]]></mail>
+		<entreprise><![CDATA[Scalian]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Poitrine]]></nom>
+		<prnom><![CDATA[Florent]]></prnom>
+		<mail><![CDATA[florent.poitrine@sick.fr]]></mail>
+		<entreprise><![CDATA[SICK]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Pottier]]></nom>
+		<prnom><![CDATA[Céline]]></prnom>
+		<mail><![CDATA[celine.pottier@univ-tlse2.fr]]></mail>
+		<entreprise><![CDATA[ISCID]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Quintana]]></nom>
+		<prnom><![CDATA[Manon]]></prnom>
+		<mail><![CDATA[mquintana@inbenta.com]]></mail>
+		<entreprise><![CDATA[Inbenta]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Rancoule]]></nom>
+		<prnom><![CDATA[Yves]]></prnom>
+		<mail><![CDATA[yves.rancoule@imerir.com]]></mail>
+		<entreprise><![CDATA[Imerir]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Real]]></nom>
+		<prnom><![CDATA[Jean-Frédéric]]></prnom>
+		<mail><![CDATA[jean-frederic.real@scalian.com]]></mail>
+		<entreprise><![CDATA[Scalian]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Recrutement]]></nom>
+		<prnom><![CDATA[Service]]></prnom>
+		<mail><![CDATA[recrutement@scalian.com]]></mail>
+		<entreprise><![CDATA[Scalian]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Rivallo]]></nom>
+		<prnom><![CDATA[Jérémy]]></prnom>
+		<mail><![CDATA[jeremy.rivallo@easymile.com]]></mail>
+		<entreprise><![CDATA[Easymile]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Rosini]]></nom>
+		<prnom><![CDATA[Giorgia]]></prnom>
+		<mail><![CDATA[communication@oisfrance.com]]></mail>
+		<entreprise><![CDATA[Ocean Innovation System]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[ROUCH]]></nom>
+		<prnom><![CDATA[Nicolas]]></prnom>
+		<mail><![CDATA[nicolas.rouch@fanuc.eu]]></mail>
+		<entreprise><![CDATA[FANUC]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Rouchouse]]></nom>
+		<prnom><![CDATA[Laurent]]></prnom>
+		<mail><![CDATA[laurent.rouchouse@ublu.fr]]></mail>
+		<entreprise><![CDATA[Ublu]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Rozzonelli]]></nom>
+		<prnom><![CDATA[Didier]]></prnom>
+		<mail><![CDATA[Didier.rozzonelli@scalian.com]]></mail>
+		<entreprise><![CDATA[Scalian]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Salort]]></nom>
+		<prnom><![CDATA[Xavier]]></prnom>
+		<mail><![CDATA[xavier.salort@easymile.com]]></mail>
+		<entreprise><![CDATA[Easymile]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Sautrelle]]></nom>
+		<prnom><![CDATA[Olivier]]></prnom>
+		<mail><![CDATA[Olivier.SAUTRELLE@zimmerbiomet.com]]></mail>
+		<entreprise><![CDATA[Zimmer Biomet Robotics ]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Sayerse]]></nom>
+		<prnom><![CDATA[Philippe]]></prnom>
+		<mail><![CDATA[philippe.sayerse@cea.fr]]></mail>
+		<entreprise><![CDATA[CEA Tech]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Scesa]]></nom>
+		<prnom><![CDATA[Vincent]]></prnom>
+		<mail><![CDATA[vincent.scesa@easymile.com]]></mail>
+		<entreprise><![CDATA[Easymile]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Schneller]]></nom>
+		<prnom><![CDATA[Camille]]></prnom>
+		<mail><![CDATA[camille.schneller@icam.fr]]></mail>
+		<entreprise><![CDATA[ICAM]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Scortatore]]></nom>
+		<prnom><![CDATA[Marc]]></prnom>
+		<mail><![CDATA[marc.scortatore@eu.omron.com]]></mail>
+		<entreprise><![CDATA[Omron]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[SERRES]]></nom>
+		<prnom><![CDATA[Pierrick]]></prnom>
+		<mail><![CDATA[pse@oisfrance.com]]></mail>
+		<entreprise><![CDATA[Ocean Innovation System]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Servant]]></nom>
+		<prnom><![CDATA[Adrien]]></prnom>
+		<mail><![CDATA[a.servant@mb-s.fr]]></mail>
+		<entreprise><![CDATA[HMI-MBS ]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Séverac]]></nom>
+		<prnom><![CDATA[Gaëtan]]></prnom>
+		<mail><![CDATA[gaetan@naio-technologies.com]]></mail>
+		<entreprise><![CDATA[Naio Technologies]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Sillon]]></nom>
+		<prnom><![CDATA[Nicolas]]></prnom>
+		<mail><![CDATA[nicolas.sillon@cea.fr]]></mail>
+		<entreprise><![CDATA[CEA Tech]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Soto]]></nom>
+		<prnom><![CDATA[Gora]]></prnom>
+		<mail><![CDATA[soto.g@ecagroup.com]]></mail>
+		<entreprise><![CDATA[ECA CNAI]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Stasse]]></nom>
+		<prnom><![CDATA[Olivier]]></prnom>
+		<mail><![CDATA[ostasse@laas.fr]]></mail>
+		<entreprise><![CDATA[LAAS]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Strauss]]></nom>
+		<prnom><![CDATA[Olivier]]></prnom>
+		<mail><![CDATA[strauss@lirmm.fr]]></mail>
+		<entreprise><![CDATA[LIRMM]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Taïx]]></nom>
+		<prnom><![CDATA[Michel]]></prnom>
+		<mail><![CDATA[taix@laas.fr]]></mail>
+		<entreprise><![CDATA[LAAS ]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Talbot]]></nom>
+		<prnom><![CDATA[Delphine]]></prnom>
+		<mail><![CDATA[delphine.talbot@univ-tlse2.fr]]></mail>
+		<entreprise><![CDATA[ISCID]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Talon]]></nom>
+		<prnom><![CDATA[Vincent]]></prnom>
+		<mail><![CDATA[vincent@twinswheel.fr]]></mail>
+		<entreprise><![CDATA[Soben]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[TARAVELLIER ]]></nom>
+		<prnom><![CDATA[Guillaume]]></prnom>
+		<mail><![CDATA[g.taravellier@aerem.fr]]></mail>
+		<entreprise><![CDATA[NODEA]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Tchordikian]]></nom>
+		<prnom><![CDATA[Thierry]]></prnom>
+		<mail><![CDATA[thierry.tchordikian@sick.fr]]></mail>
+		<entreprise><![CDATA[SICK]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Terrenoir]]></nom>
+		<prnom><![CDATA[Stéphane]]></prnom>
+		<mail><![CDATA[stephane.terrenoir@delair.aero]]></mail>
+		<entreprise><![CDATA[Delair]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[THIAUMOND]]></nom>
+		<prnom><![CDATA[Marianna]]></prnom>
+		<mail><![CDATA[marianna.thiaumond@symetrie.fr]]></mail>
+		<entreprise><![CDATA[Symétrie]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Touret]]></nom>
+		<prnom><![CDATA[Laure]]></prnom>
+		<mail><![CDATA[ltouret@brainchipinc.com]]></mail>
+		<entreprise><![CDATA[Brainchip]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[TRIMOULET]]></nom>
+		<prnom><![CDATA[David]]></prnom>
+		<mail><![CDATA[dtrimoulet@cesi.fr]]></mail>
+		<entreprise><![CDATA[CESI]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Weldon]]></nom>
+		<prnom><![CDATA[Sarah]]></prnom>
+		<mail><![CDATA[sarah.weldon@cea.fr]]></mail>
+		<entreprise><![CDATA[CEA Tech]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+	<node>
+		<nom><![CDATA[Zinsstag]]></nom>
+		<prnom><![CDATA[Ilias]]></prnom>
+		<mail><![CDATA[ilias@epur.io]]></mail>
+		<entreprise><![CDATA[EPUR]]></entreprise>
+		<site><![CDATA[]]></site>
+		<domainedactivit><![CDATA[]]></domainedactivit>
+		<pleoudas><![CDATA[]]></pleoudas>
+		<rue><![CDATA[]]></rue>
+		<adresse2><![CDATA[]]></adresse2>
+		<codepostal><![CDATA[]]></codepostal>
+		<ville><![CDATA[]]></ville>
+	</node>
+</data>

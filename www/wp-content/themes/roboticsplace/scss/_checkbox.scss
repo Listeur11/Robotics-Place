@@ -1,0 +1,149 @@
+.vs-section {
+    .facetwp-checkbox {
+        background: none;
+        background-image: url('./images/icons/checkbox.svg');
+        background-repeat: no-repeat;
+        background-size: 23px 23px;
+        padding-left: 30px;
+        font-family: 'regular';
+        line-height: 25px;
+        color: $color6;
+        display: inline-block;
+        margin-left: 20px;
+        &:first-child{
+            margin-left: 0px;
+        }
+        &.checked {
+            background-image: url('./images/icons/checkbox-on.svg');
+
+        }
+    }
+}
+
+/* checkbox aspect */
+
+/* Base for label styling */
+
+[type="checkbox"]:not(:checked),
+[type="checkbox"]:checked {
+    position: absolute;
+    left: -9999px;
+}
+
+[type="checkbox"]:not(:checked) + label,
+[type="checkbox"]:checked + label,
+[type="checkbox"]:not(:checked) + span,
+[type="checkbox"]:checked + span {
+    position: relative;
+    padding-left: 2.5em;
+    cursor: pointer;
+    position: relative;
+    top: 5px;
+}
+
+/* checkbox aspect */
+
+[type="checkbox"]:not(:checked) + label:before,
+[type="checkbox"]:checked + label:before,
+[type="checkbox"]:not(:checked) + span:before,
+[type="checkbox"]:checked + span:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: -5px;
+    width: 23px;
+    height: 23px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    background: white;
+}
+
+input#comeWithFriends:not(:checked) + label:before,
+input#comeWithFriends:checked + label:before,
+input#comeWithFriends:not(:checked) + span:before,
+input#comeWithFriends:checked + span:before {
+    width: 30px;
+    height: 30px;
+    border-radius: 3px;
+
+}
+
+/* checked mark aspect */
+
+[type="checkbox"]:not(:checked) + label:after,
+[type="checkbox"]:checked + label:after,
+[type="checkbox"]:not(:checked) + span:after,
+[type="checkbox"]:checked + span:after {
+
+    display: inline-block;
+    position: absolute;
+    width: 19px;
+    height: 14px;
+    margin-right: 13px;
+    left: 5px;
+    content: "";
+    background-image: url('./images/icons/check.svg');
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-size: 15px 12px;
+}
+
+
+input#comeWithFriends:not(:checked) + label:after,
+input#comeWithFriends:checked + label:after,
+input#comeWithFriends:not(:checked) + span:after,
+input#comeWithFriends:checked + span:after {
+    width: 30px;
+    height: 22px;
+    left: 8px;
+}
+
+/* checked mark aspect changes */
+
+[type="checkbox"]:not(:checked) + label:after,
+[type="checkbox"]:not(:checked) + span:after {
+    opacity: 0;
+    transform: scale(0.9);
+}
+
+[type="checkbox"]:checked + label:after,
+[type="checkbox"]:checked + span:after {
+    opacity: 1;
+    transform: scale(1);
+}
+
+/* disabled checkbox */
+
+[type="checkbox"]:disabled:not(:checked) + label:before,
+[type="checkbox"]:disabled:checked + label:before,
+[type="checkbox"]:disabled:not(:checked) + span:before,
+[type="checkbox"]:disabled:checked + span:before {
+    box-shadow: none;
+    border-color: #bbb;
+    background-color: #ddd;
+}
+
+[type="checkbox"]:disabled:checked + label:after,
+[type="checkbox"]:disabled:checked + span:after {
+    color: #999;
+}
+
+[type="checkbox"]:disabled + label,
+[type="checkbox"]:disabled + span {
+    color: #aaa;
+}
+
+/* accessibility */
+
+[type="checkbox"]:checked:focus + label:before,
+[type="checkbox"]:not(:checked):focus + label:before,
+[type="checkbox"]:checked:focus + span:before,
+[type="checkbox"]:not(:checked):focus + span:before {
+    //border: 1px dotted blue;
+}
+
+/* hover style just for information */
+
+label:hover:before {
+    border: 1px solid $color5!important;
+}

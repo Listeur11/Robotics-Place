@@ -1,0 +1,216 @@
+Nom;Prénom;Mail;Entreprise;Site;Domaine d'activité;Pôle ou DAS;Rue;Adresse 2;Code Postal;Ville
+AGUILAR MONTORO;Alberto;aaguilar@suma-aerospace.com;SUMA Aerospace; www.suma-aerospace.com; Equipements mécatroniques; Pôle Fournisseurs de Technologies; 7 avenue Didier Daurat; ;31700;Blagnac
+Anglo;Thomas ;thomas.anglo@elter.fr;ELTER; https://www.elter.fr; Intelligence Artificielle (réponses à appels d'offres / prestation); Pôle Fournisseurs de Technologies; 58 rue du jeu de Paume; ;31130;Balma
+Barthes;Aymeric;aymeric@naio-technologies.com;Naio Technologies; www.naio-technologies.com; Robots de desherbage pour l'agriculture; DAS Robotique de Service; 235 Rue de la Montagne Noire; ;31750;Escalquens
+Benedetti;Alexandre;alexandre_benedetti@orange.fr;i-TECHDRONE; ;Prestations drones et sous-marin et conception d'applications. Distributeur des drones Civic Drone.; DAS Drones; 14 boulevard Pierre Renaudet; ;65000;Tarbes
+Benharrosh;Benjamin;benjamin.benharrosh@delair.aero;Delair; www.delair.aero; Constructeur de Drones; DAS Drones; 676, Rue Max Planck; ;31670;Labège
+Bequet;Josselin;josselin@donecle.fr;DONECLE; www.donecle.fr; Concepteur d'une solution de contrôle à base de drones en essaim; DAS Drones; 231 RUE PIERRE ET MARIE CURIE; ;31000;TOULOUSE
+Bontemps;Fabien;bontemps.f@ecagroup.com;ECA CNAI; http://www.ecagroup.com/en/aerospace/manufacturers; Intégrateur de Robotique Industrielle; DAS Robotique Industrielle; 6 impasse Alice Guy; ZAC de Saint Martin du Touch;31025;Toulouse
+Borde;Armance;armance.borde@excent.fr;EXCENT; www.excent.fr; Concepteur intégrateur de solutions industrielles; DAS Robotique Industrielle; 2 avenue Léon Foucault; ZAC du Perget;31770;COLOMIERS
+BORIES ;Dominique;dominique.bories@nexeya.com;Midi Ingénierie; www.midi-ingenierie.com; Expert en contrôle moteur et mécatronique; Pôle Fournisseurs de Technologies; 6 rue des frères Boudé; ZONE INDUSTRIELLE THIBAUD;31100;TOULOUSE
+Bouhet;Nicolas;n.bouhet@mb-s.fr;HMI-MBS; www.mb-s.fr; Distribution des robots UR et solutions de cerclage ErgoPack; DAS Robotique Industrielle; 22 route de Gien; ;45110;Saint Martin d'Abbat
+BOUTTIER;Jean-Louis;jean.louis.bouttier@agglo-muretain.fr;Muretain Agglo; http://agglo-muretain.fr/; Institutionnel; Institutionnel; 8 avenue Vincent Auriol; ;31600;MURET
+Briand;Cyril ;briand@laas.fr;AIP Primeca; http://aip-primeca.ups-tlse.fr/; Plateforme technique; Pôle Education; 118 route de Narbonne; Halle Technologique - ESPE - UPS;31078;Toulouse
+Brossard;Didier;d.brossard@pfit-mp.com;CFAI MP; ; Pôle de formation des industries technologiques - Formation continue et par alternance, conseils RH; Pôle Education; Rue du mont Canigou; ;31700;Beauzelle
+Carpentier;Benjamin ;benjamin.carpentier@yaskawa.eu.com;YASKAWA; www.yaskawa.fr; Fabricant de robots industriels; DAS Robotique Industrielle; RUE NUNGESSER ET COLI; D2A;44860;SAINT AIGNAN GRANDLIEU
+Caumont;Céline;celine.caumon@univ-tlse2.fr;ISCID; www.univ-tlse2.fr/iup-arts-appliques; Ecole de Design; Pôle Education; 116 boulevard Montauriol; BP 794;82013;MONTAUBAN
+Cazanave;Grégory ;gregory.cazanave@magellium.fr;Magellium; www.magellium.fr; Ingénierie - Géo-Information et Imagerie; Pôle Fournisseurs de Technologies; 24 rue Hermès; BP 12113;31521;Ramonville Saint Agne
+Chappe;Frédéric;frederic.chappe@microtec-agora.fr;Microtec; www.microtec-agora.fr; Conception et fabrication de cartes électroniques; Pôle Fournisseurs de Technologies; 2321 route de Baziège; ;31670;Labège
+Corso;Philippe;p.corso@sica2m.com;Sica2m; www.sica2m.com; Spécialiste de la transitique industrielle; DAS Robotique Industrielle; 30 chemin du Chapitre; ;31100;Toulouse
+Crampe;Francis;francis.crampe@altitem.fr;Altitem; http://altitem.fr; Informatique Industrielle - Automatisme; DAS Robotique Industrielle; 445 l'Occitane; Bât Les Oliviers;31673;Labège
+Dalmon;Bernard;bernard.dalmon@defi12.com;DEFI 12; http://www.defi-12.com/; Bureau d'étude / Intégrateur de robots industriels; DAS Robotique Industrielle; 258 avenue de Rodez; BP 20;12450;Luc la Primaube
+Damprund Vergnole ;Joanna;toulouse@instadrone.fr;Instadrone; www.instadrone.fr; Exploitant de drone - Prestataire de service; Pôle Besoins et Usages; 9 Place Alphonse Jourdain; ;31000;Toulouse
+Daydé;Michel;michel.dayde@irit.fr;IRIT ; www.irit.fr; Laboratoire de recherche en informatique; Pôle Recherche; 118 Route de Narbonne; Université Paul Sabatier;31062;Toulouse
+DE SAN NICOLAS;Frédéric;fdsn@becom-d.fr;Becom-d; www.becom-d.fr; BE mécanique et design industriel; Pôle Fournisseurs de Technologies; 7 bis route de Saint Privat; ;34700;Saint Jean de la Blaquière
+Delpeyroux;Joël;joel@mideltech.com;Mideltech; www.mideltech.com; Bureau d'étude Mécanique; DAS Robotique Industrielle; 447 chemin d'Envernhe; ZI de Pommiers;46400;Saint-Céré
+Desfosses;Augustin;augustin.desfosses@sterela.fr;STERELA; www.sterela.fr; Systèmes de cibles pour l'armée / Robots de logistique; DAS Robotique de Service; 5 Impasse Pédenau; ;31860;PIN-JUSTARET
+Desriac;Christine;christine.desriac@cetim.fr;CETIM; http://www.cetim.fr/fr; Institut Carnot - Mécanique; DAS Robotique Industrielle; 2 avenue Pierre Angot; Technopôle Hélioparc;64053;Pau 
+Doisy;Guillaume;guillaume.doisy@wyca.fr;Wyca; www.wyca.fr; Robots de téléprésence pour l'accueil des clients à distance; DAS Robotique de Service; 121 route de Paris; ;31140;Aucamville
+Dubois;Hubert;hubert.dubois@cea.fr;CEA Tech; http://www.cea-tech.fr/cea-tech/Pages/home%20temp/Accueil.aspx; Transfert de Technologie ; Pôle Recherche; 135 avenue de Rangueil; INSA, Bât 8;31400;TOULOUSE
+Duget;Anne;anne.duget@symetrie.fr;Symétrie; www.symetrie.fr; Robot hexapode de positionnement ultraprécis d'objets; Pôle Fournisseurs de Technologies; 10 allée Charles Babbage; ;30000;Nimes
+Escoffre;Claude;claude.escoffre@nxp.com;NXP; http://www.nxp.com/; Fabricant de composants électroniques; Pôle Fournisseurs de Technologies; 134 avenue du Général Eisenhower; ;31650;TOULOUSE
+Faurie;Didier;didier.faurie@fanuc.eu;FANUC; http://www.fanuc.eu/fr/fr/robots; Constructeur de robots industriels; DAS Robotique Industrielle; 15 Rue Léonard de Vinci; ;91090;LISSES
+Ferre;Etienne;etienne@kineocam.com;Siemens Industry Software; http://www.plm.automation.siemens.com/en_us/products/open/kineo/; Fournisseur gestion PLM et MOM; Pôle Fournisseurs de Technologies; Rue de la Découverte; Miniparc - Bât 2;31677;LABEGE
+Galinier;Benoit;b.galinier@critt-autom.com;CRITT Automatisation; www.critt-autom.com; Intégrateur de robots industriels / Transfert de technologie; DAS Robotique Industrielle; Parc Technopolitain Albi-Innoprod; 8 avenue Pierre-Gilles de Gennes;81000;Albi
+Geny;Phillppe;phil.geny@gmail.com;Drones & Co; www.drones-andco.com; Exploitant de Drones; DAS Drones; 39 rue des Pénitents Blancs; ;9500;MIREPOIX
+Giralt;Alain;alain.giralt@continental-corporation.com;Continental Automotive; http://www.conti-engineering.com/www/engineering_services_fr_fr/; Equipementier automobile; Pôle Fournisseurs de Technologies; 1 Avenue Paul Ourliac; ;31100;TOULOUSE
+Gouttefarde;Marc;marc.gouttefarde@lirmm.fr;LIRMM; www.lirmm.fr; Laboratoire de recherche du CNRS; Pôle Recherche; 161 rue Ada; ;34095;Montpellier
+Guillet;Bruno ;bruno.guillet@madeeli.fr;AD'Occ; www.agence-adocc.com; Agence régionale du développement économique; Institutionnel; 11 boulevard des Récollets; ;31078;TOULOUSE
+HERRMANN;Christophe;christophe.hermann@scalian.com;Scalian; www.scalian.com; Produits et Services technologiques; DAS Drones; 417 L'Occitane; CS77679;31676;Labège
+Izard;Jean-Baptiste;jeanbaptiste.izard@tecnalia.com;Tecnalia; www.tecnalia.com; Centre privé de R&D et de transfert de technologies; Pôle Fournisseurs de Technologies; 950 rue Saint-Priest; Bât. 6 - CSU;34090;Montpellier
+Katchynsky ;Ludwig;ludwig@blanc-tailleur.fr;Blanc-Tailleur; www.blanc-tailleur.fr; Design Industriel; Pôle Fournisseurs de Technologies; Rue Cartier; BP483;31315;Labège
+Labrue;Stéphane;labrue@iteks.fr;ITEKS; www.iteks.fr; Intégrateur de robots et constructeur de machines spéciales; DAS Robotique Industrielle; Chemin du Pla; ;11190;Montazels
+Lamy-Preto;Damien ;damien.lamy-preto@inp-toulouse.fr;Toulouse Tech Formation Professionnelle; http://toulousetech-formation.fr/fr/index.html; Formation Professionnelle; Pôle Education; 6 allée Emile Monso; ;31029;Toulouse
+Lassabe;Nicolas;lassabe@artilect.fr;Artilect Lab; www.artilect.fr; Fablab - Association 1901; Pôle Fournisseurs de Technologies; 27 bis Allée Maurice Sarraut; ;31300;TOULOUSE
+Latorse;Laurent;laurent.latorse@airod-tech.com;AIROD Technologies; www.airod-tech.com; Ingénierie Mécatronique & Fabrication de machines spéciales - Drones volants, robots marins robots terrestres; 3 DAS; 3 rue du Cagire; ZA des Pyrénées;31120;PINSAGUEL
+Lemoine;Caël;lemoinecael@hotmail.com;Co-Boy Technologies; ;Robots aspirateurs professionnels; DAS Robotique de Service; 7 rue Alaric II; ;31000;Toulouse
+Lerasle;Frédéric;lerasle@laas.fr;UPSSITECH - SRI; www.iupsi.ups-tlse.fr;Ecole d'ingénieurs; Pôle Education; 118 route de Narbonne; ;31400;TOULOUSE
+Lero;Christophe;christophe.lero@sysmeca.com;Sysmeca Ingenierie; www.sysmeca.com; Bureau d'études mécanique; Pôle Fournisseurs de Technologies; 8 allée du Catchère; ZAC du Perget;31770;COLOMIERS
+Lheritier;Marion;marion.lheritier@easymile.com;Easymile; www.easymile.com; Conception de véhicules autonomes; DAS Robotique de Service; 3 avenue Didier Daurat; ;31400;Toulouse
+Loze;Dominique;dominique.loze@aboard-eng.com;Aboard Engineering; http://aboard-eng.com/; Bureau d'études en automatique; Pôle Fournisseurs de Technologies; 10 rue de la Sausse; ;31240;Saint Jean
+MAILLET;Pierre ;pierre.maillet@zimmerbiomet.com;Zimmer Biomet Robotics ; www.medtechsurgical.com; Robots chirurgicaux; DAS Robotique de Service; ZAC Eurêka; 900 rue du Mas de Verchant;34000;Montpellier
+Majorel;Aurélien;ama@oisfrance.com;Ocean Innovation System; www.oceaninnovationsystem.com; Concepteur de Robots Sous-Marins; DAS Robotique de Service; 9 avenue de l'Europe; CapAlpha;34830;Clapiers
+Mamalet;Franck;f.mamalet@brainchipinc.com;Brainchip; www.brainchipinc.com; Analyse vidéo / Reconnaissance de formes; Pôle Fournisseurs de Technologies; 20 Avenue Prat Gimont; ;31130;BALMA
+MARCHADIER;Laurent;laurent.marchadier@beenetic.com;Beenetic; www.beenetic.com; Expert en capteurs; Pôle Fournisseurs de Technologies; Technoparc IV; 1 Impasse Marcel Chalard;31100;TOULOUSE
+Mayer;Jean-Pierre;mayer.jean-pierre@wanadoo.fr;MILLINAV; www.millinav.com; Développement d'une prothèse de genoux robotisée; DAS Robotique de Service; 3 Rue Ariane; ;31520;RAMONVILLE SAINT-AGNE
+MAZEL;Christophe;christophe.mazel@boreal-uas.com;Boreal; http://www.ajs-uas.com/; Conception et fabrication du drone BOREAL; DAS Drones; 1 T rue de l'industrie; ;31320;Castanet Tolosan
+Mercié;Dominique;dominique.mercie@erpo.fr;ERPO; www.erpo.fr; BE mécanique et fabrication; Pôle Fournisseurs de Technologies; 28 avenue de l'enclos; ;31120;Portet sur Garonne
+Misiak;Nicolas;nicolas.misiak@ublu.fr;Ublu; www.ublu.fr; Intégrateur de robots de services; DAS Robotique de Service; 27 Allée du Roussillon; ;31770;Colomiers
+Morelière;David;david.moreliere@openindus.com;OpenIndus; www.openindus.com; Automates modulaires open source; Pôle Fournisseurs de Technologies; 10 rue Cany; ;31300;Toulouse
+Noureddine;Farid;farid.noureddine@enit.fr;ENIT;;Ecole d'ingénieurs;Pôle Education;47 avenue d'Azereix;;65000;Tarbes
+Parlouar;Rémi;remi.parlouar@novalynx.fr;NOVALYNX; http://www.novalynx.fr; Conception et Réalisation de Solutions Industrielles; DAS Robotique Industrielle; 35 Bis Route de Bessières; ;31240;L’Union
+Pedros;Jérémie;jpedros@actemium.com;Actemium Toulouse Robotique; www.actemium.com; Intégrateur de Robotique Industrielle; DAS Robotique Industrielle; 2 - 3 Allée de Longueterre; Sumo Park;31850;MONTRABE
+Petitjean;Alice;alice.petitjean@sick.fr;SICK; www.sick.fr; Fabricant de capteurs Lidar; Pôle Fournisseurs de Technologies; 21 Blv de Beaubourg; ZI Paris Est;77184;Emerainville
+Pichon;Philippe;philippe.pichon@zodiac.com;Zodiac Pool Care; www.zodiac.com; Robots de piscine; DAS Robotique de Service; ZAC Balme; ;31450;BELBERAUD
+PILOT;François-Xavier;fxpilot@kuka.fr;KUKA; www.kuka.fr; Constructeur de robots industriels; DAS Robotique Industrielle; 6 rue du Parc; ;91140;Villebon sur Yvette
+POINSARD;Francois;fpoinsard@mydigitplace.com;MyDigitPlace - GA MA Negoce; http://mydigitplace.com/; Intégrateur de robots de services - Intermédiaire de commerce B to B; DAS Robotique de Service ; 3 Bis, impasse des flamboyants; ;31600;LHERM
+Pollina;Marc;pollina@m3systems.eu;M3 Systems; www.m3systems.net; Navigation par satellite; Pôle Fournisseurs de Technologies; 26 rue du Soleil Levant; ;31410;Lavernose
+Pradier;Franck;franck.pradier@semo.fr;SEMO; www.semo.fr; Intégrateur de robots industriels; DAS Robotique Industrielle; 10 rue Louis Breguet; ;31700;Cornebarrieu
+Privat;Edmond;edmond.privat@eiffage.com;Eiffage Energie; www.eiffageenergie.com; Intégrateur de Robotique Industrielle; DAS Robotique Industrielle; 26 Rue du Trauc; Z.A. Bel Air  ;12510;Druelle
+Rharmaoui;Ahmed ;ahmed.rharmaoui@imerir.com;IMERIR; www.imerir.com; Ecole d'ingénieurs; Pôle Education; Avenue Paul Pascot; BP 90443;66004;Perpignan
+Rivière;Laurent;laurent@sunbirds.aero;Sunbirds; www.sunbirds-uas.com; Fabricant de drones; DAS Drones; 231 rue Pierre et Marie Curie; ;31670;Labège
+ROBERT;Fabrice;fabrice.robert@sogeti.com;Sogeti High Tech; www.sogeti-hightech.fr; SSII -> 50 personnes dans l'équipe développent sur le comportement collaboratif des robots; Pôle Fournisseurs de Technologies; Avenue de l'Escadrille Normandie Niemen; Parc du Millénaire - Bât 2;31703;BLAGNAC
+Roussel;Philippe;philippe.roussel@enjolivure.com;PRO Consulting; http://proconsulting.apps-1and1.net/; Consultant - Animateur de Robotics Place - Délégué Général de la Fédération Française des Clusters de la Robotique; Pôle Fournisseurs de Technologies; 250 route de Belberaud; ;31450;MONTLAUR
+Rumeau;Bertrand;bertrand.rumeau@rcp-fr.com;NODEA; www.nodea-industries.com/fr; Consortium nouvelle génération d'experts de l'outillage ; DAS Robotique Industrielle; ZA de Lauzard; ;82370;LABASTIDE SAINT-PIERRE
+Salvayre;Marc;marc.salvayre@sr-connect.fr;SR Connect; www.sr-connect.fr; Formateur au pilotage de drones / Diffuseur d'une solution d'effarouchage des oiseaux; DAS Drones; 106 impasse du cottage; ;81500;Fiac
+Sanchez;Georges;georges.sanchez@infranor.com;Infranor; www.infranor.com; Fournisseur de Servo-variateurs; Pôle Fournisseurs de Technologies; 29 rue Jean Moulin; ;65100;Lourdes
+Sidobre;Daniel;daniel.sidobre@laas.fr;LAAS; www.laas.fr; Laboratoire de recherche du CNRS; Pôle Recherche; 7 avenue du Colonel Roche; ;31077;TOULOUSE
+SOURY;Antony;antony@antracite.fr;Antracite; www.antracite.fr; Studio de conception de produits industriels, Design; Pôle Fournisseurs de Technologies; 10 rue des Arts; ;31000;Toulouse
+Stoof;Freddy;freddy@epur.io;EPUR; www.epur.io; Conception d'outils innovants dans le domaine du bâtiment; DAS Robotique de Service; Hameau de Caillens; ;11140;Rodome
+Talon;Benjamin;benjamin.talon@soben.fr;Soben; www.soben.fr; Equipementier automobile et aéronautique + développement Droïde; DAS Robotique de Service; Village artisanal de Regourd; ;46000;Cahors
+THOMAS;Eric;ethomas@rockwellcollins.com;Rockwell Collins France; www.rockwellcollins.com; Conception de solutions dans le secteur des drônes; DAS Drones; 6 avenue Didier Daurat; ;31700;BLAGNAC
+Tirard;Sébastien;sebastien.tirard@tenwhil.com;Tenwhil; www.tenwhil.com; Etudes, programmation et mise en route d'installations robotisées; DAS Robotique Industrielle; 1 rue Chappe; ;78130;Les Mureaux
+Tondu;Bertrand;tondu@insa-toulouse.fr;INSA; http://www.insa-toulouse.fr;Ecole d'ingénieurs; Pôle Education; 135 avenue de Rangueil; CS 97704;31077;TOULOUSE
+Tournet;Antoine;antoine.tournet@diodon-drone.com;Diodon Drone Technology; http://diodon-drone.com/fr/; Constructeur de Drones; DAS Drones; 20 rue Francisque SARCEY; ;31000;TOULOUSE
+TRUNTZLER ;Luc;luc@inbenta.com;Inbenta; www.inbenta.fr; Traitement Automatique du Langage ; Pôle Fournisseurs de Technologies; 164 Route de Revel; ;31400;Toulouse
+Vagner;Renaud;renaud.vagner@icam.fr;ICAM; www.icam.fr; Ecole d'ingénieurs; Pôle Education; 75 avenue de Grande Bretagne; ;31300;TOULOUSE
+Vaisse;Gilles;agvmeca@gmail.com;AGV Mécatronique; ;Maintenance et amélioration de machines outils;DAS Robotique Industrielle; 4 Avenue de la Pélatié; ZA RIEUMAS;81150;MARSSAC SUR TARN
+Viazzi;Céline;cviazzi@cesi.fr;CESI; http://cesi.fr/; Formation diplomante; Pôle Education; 16 rue Magellan; ;31670;Labège
+Vidal;Bernard;pft.beziers@orange.fr;PFT 34 Méc@innov; http://www.pft34mecainnov.com/; Plateforme Technologique; Pôle Education; Avenue des Martyrs de la résistance; BP745;34521;Béziers
+;;;;;;;;;;
+Albenque;Hervé;halbenque@suma-aerospace.com;SUMA Aerospace;;;;;;;
+BACH ;Sebastien;sebastien.bach@novalynx.fr;NOVALYNX;;;;;;;
+Badr;Diana;diana.badr@sterela.fr;STERELA;;;;;;;
+Barthou;Xavier;x.barthou@sica2m.com;Sica2m;;;;;;;
+Baudet;Pierre;pierre.baudet@excent.fr;Excent;;;;;;;
+Becheras;Elodie;elodie.becheras@univ-tlse2.fr;ISCID;;;;;;;
+Bertaux;Florence;Florence.Bertaux@fanuc.eu;FANUC;;;;;;;
+Besozzi;Matthieu;matthieu.besozzi@wyca.fr;Wyca;;;;;;;
+Bezard;Gilles;g.bezard@spikenet-technology.com;Brainchip;;;;;;;
+BIANIC;Jean-christophe;Jean-christophe.BIANIC@scalian.com;Scalian;;;;;;;
+Blanc-Tailleur;Philippe;philippe@blanc-tailleur.fr;Blanc-Tailleur;;;;;;;
+Bodin;Laurent;laurent.bodin@yaskawa.eu.com;YASKAWA;;;;;;;
+Bonhomme;Didier;didier.bonhomme@excent.fr;Excent;;;;;;;
+Bornand;Jacques;bornand.j@ecagroup.com;ECA CNAI;;;;;;;
+Brelet;Gael;gael.brelet@delair.aero;Delair;;;;;;;
+Brisy;Alban;alban.brisy@easymile.com;Easymile;;;;;;;
+BRY;Joel;contact@nodea-industries.com ;NODEA;;;;;;;
+Budinger;Marc;marc.budinger@insa-toulouse.fr ;INSA;;;;;;;
+BUORO ;Simon;simon.buoro@excent.fr;Excent;;;;;;;
+Busmey;Quentin;quentin.busmey@excent.fr;Excent;;;;;;;
+Calado;Raphaël;r.calado@mb-s.fr;HMI-MBS ;;;;;;;
+Carles;Jérôme;jerome.carles@excent.fr;Excent;;;;;;;
+Castelli;Thomas;thomas.castelli@magellium.fr;Magellium;;;;;;;
+CHAFIK;Mehdi;mehdi.chafik@zodiac.com;Zodiac Pool Care;;;;;;;
+Chikh;Lotfi;lotfi.chikh@tecnalia.com;Tecnalia;;;;;;;
+Chomienne;Stephane;stephane.chomienne@eu.omron.com;Omron;;;;;;;
+Claustre;Isabelle;isabelle@epur.io;EPUR;;;;;;;
+Claybrough;Matthieu;matthieu@donecle.fr;DONECLE;;;;;;;
+Coiseur;Florian;Florian.Coiseur@zimmerbiomet.com;Zimmer Biomet Robotics ;;;;;;;
+Collin;Nicolas;nicolas.collin@excent.fr;Excent;;;;;;;
+Communication;Service;communication@excent.fr;Excent;;;;;;;
+Cretal;Darany;darany.cretal@yaskawa.eu.com;YASKAWA;;;;;;;
+Culoto;Thomas;thomas.culoto@altitem.fr;Altitem;;;;;;;
+Dattanasio;Simona;simona.dattanasio@icam.fr;ICAM;;;;;;;
+de Roquette;Nicolas;nicolas.deroquette@wyca.fr;Wyca;;;;;;;
+DECAMPS;Henri;henri.decamps@inp-toulouse.fr;Toulouse Tech Formation Professionnelle;;;;;;;
+Delagarde;Michael;michael.delagarde@delair.aero;Delair;;;;;;;
+Delahaye;Olivier;olivier.delahaye@inp-toulouse.fr;Toulouse Tech Formation Professionnelle;;;;;;;
+DELOCHE;Rémi;remi.deloche@zodiac.com;Zodiac Pool Care;;;;;;;
+Delugeau;Antoine;Antoine.delugeau@scalian.com;Scalian;;;;;;;
+DERUAZ-PEPIN;Alban;alban@donecle.fr;DONECLE;;;;;;;
+Desenfans;Olivier;desenfans@m3systems.net;M3 Systems;;;;;;;
+Dewet;Clément;clement.dewet@excent.fr;Excent;;;;;;;
+Dhombre;Renaud;r.dhombre@critt-autom.com;CRIIT Automatisation;;;;;;;
+Diulein;Amaury;adiulein@inbenta.com;Inbenta;;;;;;;
+El Zaher;Madeleine;melzaher@cesi.fr;CESI;;;;;;;
+Faure;Alexandre;alexandre.faure@excent.fr;Excent;;;;;;;
+Fèche;Virginie;virginie.feche@lirmm.fr;LIRMM;;;;;;;
+Fernandez;Jose Manuel;jose.fernandez@sterela.fr;STERELA;;;;;;;
+Fillatreau;Philippe;philippe.fillatreau@enit.fr;ENIT;;;;;;;
+Fournols ;Nadia;nadia.fournols@sterela.fr;STERELA;;;;;;;
+Fraisse;Philippe;philippe.fraisse@lirmm.fr;LIRMM;;;;;;;
+François;Maxence;Maxence.Francois@zimmerbiomet.com;Zimmer Biomet Robotics ;;;;;;;
+Gaufreteau;Marc;marc.gaufreteau@fanuc.eu;FANUC;;;;;;;
+GAUTREAU;Thierry;Thierry.Gautreau@cetim.fr;CETIM;;;;;;;
+Gavart;Michel;michel.gavart@ajs-uas.com;AJS - Borel - Mistral;;;;;;;
+Gayde;Vincent;vincent.gayde@microtec-agora.fr;Microtec;;;;;;;
+Germa ;Thierry;thierry.germa@magellium.fr;Magellium;;;;;;;
+Grougon;Thomas;contact@antracite.fr;Antracite;;;;;;;
+HARDOUIN;Marie-Amandine;marie.hardouin@actemium.com;Actemium;;;;;;;
+Hernandez;Marc;marc.hernandez@erpo.fr;ERPO;;;;;;;
+Hourquet;Patricia;patricia.hourquet@m3systems.eu;M3 Systems;;;;;;;
+Jacquot;Olivier;olivier.jacquot@eu.omron.com;Omron;;;;;;;
+JUHEL;Philippe;philippe.juhel@icam.fr;ICAM;;;;;;;
+Lacroix;Simon;simon@laas.fr;LAAS;;;;;;;
+Lamiraux;Florent;florent.lamiraux@laas.fr;LAAS;;;;;;;
+Landais;Thierry;thierry.landais@eu.omron.com;Omron;;;;;;;
+le Directeur;Monsieur;directeur@enit.fr;ENIT;;;;;;;
+Lefebvre;Thierry;thierry.lefebvre@tenwhil.com;Tenwhil;;;;;;;
+Legourrierec;Alban;alban.legourrierec@excent.fr;Excent;;;;;;;
+Legrand;Yves;Yves.Legrand@nxp.com;NXP (Freescale);;;;;;;
+Lenoir;Philippe;philippe.lenoir@semo.fr;SEMO;;;;;;;
+Lepetit;Pierre;pierre.lepetit@eemau.fr;EEMAU Industrie;;;;;;;
+Lopez;David;david.lopez@nxp.com;NXP (Freescale);;;;;;;
+Lormières;Julie;j.lormieres@pfit-mp.com;CFAI MP;;;;;;;
+Louw;Eric;eric.louw@excent.fr;Excent;;;;;;;
+Luciani;Roman;roman.luciani@diodon-drone.com;Diodon Drone Technology;;;;;;;
+MAGLIOCCA;Elise;Elise.MAGLIOCCA@excent.fr;Excent;;;;;;;
+Malaval;Loic;loic.malaval@eiffage.com;Eiffage Energie;;;;;;;
+Marques;Laurence;l.marques@pfit-mp.com;CFAI MP;;;;;;;
+Matos;Pierre-Michel;pierre-michel.matos@eiffage.com;Eiffage Energie;;;;;;;
+Mazet;Pierre;pierre@blanc-tailleur.fr;Blanc-Tailleur;;;;;;;
+Misiak;Nicolas;nicolas.misiak@ublu.fr;Ublu;;;;;;;
+Morel;Pascaline;pascaline@mideltech.com;Mideltech;;;;;;;
+Morin;Philippe;philippe.morin@cetim.fr;CETIM;;;;;;;
+Mousset;Michel;michel.mousset@cetim.fr;CETIM;;;;;;;
+Novat;Didier;didier.novat@sick.fr;SICK;;;;;;;
+Oller;Guillaume;guillaume.oller@magellium.fr;Magellium;;;;;;;
+Pierucci;Marie-Laure;pierucci@laas.fr;LAAS;;;;;;;
+Plé;Morgan;morgan.ple@eemau.fr;EEMAU Industrie;;;;;;;
+Poisvert;Rémi;remi.poisvert@scalian.com;Scalian;;;;;;;
+Poitrine;Florent;florent.poitrine@sick.fr;SICK;;;;;;;
+Pottier;Céline;celine.pottier@univ-tlse2.fr;ISCID;;;;;;;
+Quintana;Manon;mquintana@inbenta.com;Inbenta;;;;;;;
+Rancoule;Yves;yves.rancoule@imerir.com;Imerir;;;;;;;
+Real;Jean-Frédéric;jean-frederic.real@scalian.com;Scalian;;;;;;;
+Recrutement;Service;recrutement@scalian.com;Scalian;;;;;;;
+Rivallo;Jérémy;jeremy.rivallo@easymile.com;Easymile;;;;;;;
+Rosini;Giorgia;communication@oisfrance.com;Ocean Innovation System;;;;;;;
+ROUCH;Nicolas;nicolas.rouch@fanuc.eu;FANUC;;;;;;;
+Rouchouse;Laurent;laurent.rouchouse@ublu.fr;Ublu;;;;;;;
+Rozzonelli;Didier;Didier.rozzonelli@scalian.com;Scalian;;;;;;;
+Salort;Xavier;xavier.salort@easymile.com;Easymile;;;;;;;
+Sautrelle;Olivier;Olivier.SAUTRELLE@zimmerbiomet.com;Zimmer Biomet Robotics ;;;;;;;
+Sayerse;Philippe;philippe.sayerse@cea.fr;CEA Tech;;;;;;;
+Scesa;Vincent;vincent.scesa@easymile.com;Easymile;;;;;;;
+Schneller;Camille;camille.schneller@icam.fr;ICAM;;;;;;;
+Scortatore;Marc;marc.scortatore@eu.omron.com;Omron;;;;;;;
+SERRES;Pierrick;pse@oisfrance.com;Ocean Innovation System;;;;;;;
+Servant;Adrien;a.servant@mb-s.fr;HMI-MBS ;;;;;;;
+Séverac;Gaëtan;gaetan@naio-technologies.com;Naio Technologies;;;;;;;
+Sillon;Nicolas;nicolas.sillon@cea.fr;CEA Tech;;;;;;;
+Soto;Gora;soto.g@ecagroup.com;ECA CNAI;;;;;;;
+Stasse;Olivier;ostasse@laas.fr;LAAS;;;;;;;
+Strauss;Olivier;strauss@lirmm.fr;LIRMM;;;;;;;
+Taïx;Michel;taix@laas.fr;LAAS ;;;;;;;
+Talbot;Delphine;delphine.talbot@univ-tlse2.fr;ISCID;;;;;;;
+Talon;Vincent;vincent@twinswheel.fr;Soben;;;;;;;
+TARAVELLIER ;Guillaume;g.taravellier@aerem.fr;NODEA;;;;;;;
+Tchordikian;Thierry;thierry.tchordikian@sick.fr;SICK;;;;;;;
+Terrenoir;Stéphane;stephane.terrenoir@delair.aero;Delair;;;;;;;
+THIAUMOND;Marianna;marianna.thiaumond@symetrie.fr;Symétrie;;;;;;;
+Touret;Laure;ltouret@brainchipinc.com;Brainchip;;;;;;;
+TRIMOULET;David;dtrimoulet@cesi.fr;CESI;;;;;;;
+Weldon;Sarah;sarah.weldon@cea.fr;CEA Tech;;;;;;;
+Zinsstag;Ilias;ilias@epur.io;EPUR;;;;;;;

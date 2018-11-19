@@ -1,0 +1,234 @@
+// -------
+// Start typing
+// -------
+.single-upt_user {
+    .vs-section {
+        padding-top: 170px;
+    }
+    h1 {
+        width: auto;
+        text-align: left;
+    }
+    h2 {
+        text-align: left;
+    }
+    .fiche-title {
+        text-align: center;
+        margin-right: auto;
+        margin-left: auto;
+        max-width: 800px;
+    }
+    .fiche-company-infos {
+        position: relative;
+        z-index: 10;
+
+
+        .company-infos {
+            background-color: #fff;
+            margin: 20px 40px;
+            padding: 30px 40px;
+            .info-title {
+                color: $color1;
+            }
+            .button {
+                margin: auto;
+            }
+        }
+    }
+    .fiche-adherent-infos {
+        max-width: 600px;
+        margin: auto;
+        span {
+            text-align: center;
+            padding: 10px;
+        }
+        .fiche-type-poste {
+            a {
+                color: $color5;
+                font-weight: bold;
+            }
+        }
+    }
+    .btn-postuler {
+        text-align: right;
+        display: inline-block;
+        width: 100%;
+        .button--blue {
+            background: #353374;
+            display: inline-block;
+            text-align: center;
+            line-height: 49px;
+        }
+    }
+}
+
+.single-upt_user .back-link {
+    color: #C83463;
+    position: absolute;
+    left: 0;
+    font-weight: bold;
+    font-family: 'regular';
+}
+
+.single-upt_user .category-link {
+    text-align: center;
+    color: $color5;
+    font-weight: bold;
+}
+
+.single-upt_user .category-link a {
+    color: #C83463;
+    font-weight: bold;
+    font-family: 'regular';
+}
+
+.single-upt_user .fiche-date {
+    color: #202044;
+    text-align: center;
+    font-family: 'regular';
+}
+
+.single-upt_user .fiche-container {
+    padding-left: 30px;
+    padding-right: 15px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 30px;
+    position: relative;
+    margin-bottom: 100Px;
+}
+
+.single-upt_user{
+  .img-post {
+    padding: 0;
+    margin:0 auto;
+    img {
+        position: relative;
+        margin: auto;
+        width: auto;
+        max-width: 220px;
+        display: block;
+        z-index: 10;
+    }
+  }
+}
+
+.slider {
+    width: 100%;
+    margin: 50px auto;
+}
+
+.slider-video {
+    //    width: auto;
+    //    max-width: 50%;
+    background-color: #fff;
+    margin: 0 auto;
+    padding-top: 50px auto;
+}
+
+.slick-slide {
+    margin: 0px 20px;
+}
+
+.slick-slide img {
+    width: 100%;
+}
+
+.slick-prev:before,
+.slick-next:before {
+    color: $color1 !important;
+    font-family: Font Awesome\ 5 Free;
+    font-weight: 900;
+    position: relative;
+    left: -15px;
+}
+
+.slick-prev:before {
+    content: " " !important;
+    background-image: url(./images/img/prev.png);
+    width: 46px;
+    height: 46px;
+    display: block;
+}
+
+.slick-next:before {
+    content: " " !important;
+    background-image: url(./images/img/next.png);
+    width: 46px;
+    height: 46px;
+    display: block;
+}
+
+.slick-slide {
+    transition: all ease-in-out .3s;
+    opacity: .1;
+}
+
+.slick-active {
+    opacity: 1;
+}
+
+.slick-current {
+    opacity: 1;
+}
+
+.video-section {
+    background-color: #fff;
+    padding: 50px !important;
+    position: relative;
+
+}
+.barreVerticale {
+        position: absolute;
+        top: -25px;
+        left: calc(50% - 2px);
+        margin: 0 auto;
+        z-index: 10;
+}
+// .item_video {
+// 	position: relative;
+// 	padding-bottom: 11%;
+// 	overflow: hidden;
+// 	max-width: 100%;
+// 	height: auto;
+// }
+//
+// .item_video iframe,
+// .item_video object,
+// .item_video embed {
+// 	position: absolute;
+// 	top: 0;
+// 	left: 0;
+// 	width: 100%;
+// 	height: 100%;
+// }
+.item_video{
+  iframe{
+    display: block;
+    margin: 0 auto;
+    width: auto;
+    min-width: 640px;
+  }
+}
+
+
+
+
+// -------
+// Mobile
+// -------
+@media all and (max-width: 768px) {
+    .slider-video {
+        width: auto;
+        max-width: 100%;
+    }
+    .item_video{
+      iframe{
+        display: block;
+        margin: 0 auto;
+        width: 100%;
+        min-width: inherit;
+        height: auto;
+      }
+    }
+}

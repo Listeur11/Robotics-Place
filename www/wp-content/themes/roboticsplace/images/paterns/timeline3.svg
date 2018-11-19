@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="164px" viewBox="0 0 31 164" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>timeline3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="32" height="247"></rect>
+    </defs>
+    <g id="Mission-adhérent" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mission-Adherent2" transform="translate(-1062.000000, -672.000000)">
+            <g id="timeline3" transform="translate(1062.000000, 640.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <path d="M-283.625763,112.219608 C-289.953441,88.6089061 -275.810898,64.1183504 -252.202791,57.7906718 L-53.3117595,4.4985374 C-29.7010574,-1.82654571 -5.20790623,12.3134021 1.11977232,35.9241042 L29.4905083,141.805009 C35.8155914,165.415711 21.6756436,189.911458 -1.93505854,196.233946 L-200.82609,249.528676 C-224.434197,255.856354 -248.929943,241.713811 -255.252431,218.105704 L-283.625763,112.219608 Z" id="Fill-1" fill="#46408E" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

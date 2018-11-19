@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<aboardengineering><![CDATA[Actemium Toulouse Robotique]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.actemium.com]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Intégrateur de Robotique Industrielle]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique Industrielle]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 2 - 3 Allée de Longueterre]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ Sumo Park]]></undefined5>
+		<el_31240saintjean><![CDATA[31850 MONTRABE]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[AGV Mécatronique]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ ]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[Maintenance et amélioration de machines outils]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[DAS Robotique Industrielle]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 4 Avenue de la Pélatié]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ZA RIEUMAS]]></undefined5>
+		<el_31240saintjean><![CDATA[ 81150 MARSSAC SUR TARN]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[AIP Primeca]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ http://aip-primeca.ups-tlse.fr/]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Plateforme technique]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Education]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 118 route de Narbonne]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ Halle Technologique - ESPE - UPS]]></undefined5>
+		<el_31240saintjean><![CDATA[ 31078 Toulouse Cedex 4]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Airborne Concept]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.airborne-concept.com]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Constructeur de Drones]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Drones]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 135 avenue du Comminges]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31270 Cugnaux]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[AIROD Technologies]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.airod-tech.com]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Ingénierie Mécatronique & Fabrication de machines spéciales - Drones volants, robots marins robots terrestres]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ 3 DAS]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 3 rue du Cagire]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ZA des Pyrénées]]></undefined5>
+		<el_31240saintjean><![CDATA[ 31120 PINSAGUEL]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Altitem]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ http://altitem.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Informatique Industrielle - Automatisme]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique Industrielle]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 445 l'Occitane]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ Bât Les Oliviers]]></undefined5>
+		<el_31240saintjean><![CDATA[ 31673 Labège Cedex]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Antracite]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.antracite.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Studio de conception de produits industriels, Design]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Fournisseurs de Technologies]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 10 rue des Arts]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31000 Toulouse]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Artilect Lab]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.artilect.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Fablab - Association 1901]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Fournisseurs de Technologies]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 27 bis Allée Maurice Sarraut]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31300 TOULOUSE]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Becom-d]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.becom-d.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ BE mécanique et design industriel]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Fournisseurs de Technologies]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 7 bis route de Saint Privat]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[34700 Saint Jean de la Blaquière]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Beenetic]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.beenetic.com]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Expert en capteurs]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Fournisseurs de Technologies]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ Technoparc IV]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ 1 Impasse Marcel Chalard]]></undefined5>
+		<el_31240saintjean><![CDATA[31100 TOULOUSE]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Blanc-Tailleur]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.blanc-tailleur.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Design Industriel]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Fournisseurs de Technologies]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ Rue Cartier]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ BP483]]></undefined5>
+		<el_31240saintjean><![CDATA[ 31315 LABEGE CEDEX]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Boreal]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ http://www.ajs-uas.com/]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Conception et fabrication du drone BOREAL]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Drones]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 1 T rue de l'industrie]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31320 Castanet Tolosan]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Brainchip]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.brainchipinc.com]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Analyse vidéo / Reconnaissance de formes]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Fournisseurs de Technologies]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 20 Avenue Prat Gimont]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31130 BALMA]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[CEA Tech]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ http://www.cea-tech.fr/cea-tech/Pages/home%20temp/Accueil.aspx]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Transfert de Technologie ]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Recherche]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 135 avenue de Rangueil]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ INSA, Bât 8]]></undefined5>
+		<el_31240saintjean><![CDATA[ 31400 TOULOUSE]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[CESI]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ http://cesi.fr/]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Formation diplomante]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Education]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 16 rue Magellan]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[ 31670 Labège Cedex]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[CETIM]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ http://www.cetim.fr/fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Institut Carnot - Mécanique]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique Industrielle]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 2 avenue Pierre Angot]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ Technopôle Hélioparc]]></undefined5>
+		<el_31240saintjean><![CDATA[ 64053 Pau Cedex 9]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[CFAI MP]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ ]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Pôle de formation des industries technologiques - Formation continue et par alternance, conseils RH]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Education]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ Rue du mont Canigou]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31700 Beauzelle]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Co-Boy Technologies]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ ]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[Robots aspirateurs professionnels]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique de Service]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 7 rue Alaric II]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31000 Toulouse]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Continental Automotive]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ http://www.conti-engineering.com/www/engineering_services_fr_fr/]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Equipementier automobile]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Fournisseurs de Technologies]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 1 Avenue Paul Ourliac]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31100 TOULOUSE]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[CRITT Automatisation]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.critt-autom.com]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Intégrateur de robots industriels / Transfert de technologie]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique Industrielle]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ Parc Technopolitain Albi-Innoprod]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ 8 avenue Pierre-Gilles de Gennes]]></undefined5>
+		<el_31240saintjean><![CDATA[ 81000 Albi]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[DEFI 12]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ http://www.defi-12.com/]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Bureau d'étude / Intégrateur de robots industriels]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique Industrielle]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 258 avenue de Rodez]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ BP 20]]></undefined5>
+		<el_31240saintjean><![CDATA[ 12450 Luc la Primaube]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Delair]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.delair.aero]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Constructeur de Drones]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Drones]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 676, Rue Max Planck]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31670 Labège]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Diodon Drone Technology]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ http://diodon-drone.com/fr/]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Constructeur de Drones]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Drones]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 20 rue Francisque SARCEY]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[DONECLE]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.donecle.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Concepteur d'une solution de contrôle à base de drones en essaim]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Drones]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 231 RUE PIERRE ET MARIE CURIE]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31000 TOULOUSE]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Drones & Co]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.drones-andco.com]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Exploitant de Drones]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Drones]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 39 rue des Pénitents Blancs]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[09500 MIREPOIX]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Easymile]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.easymile.com]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Conception de véhicules autonomes]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique de Service]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 3 avenue Didier Daurat]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31400 Toulouse]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[ECA CNAI]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ http://www.ecagroup.com/en/aerospace/manufacturers]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Intégrateur de Robotique Industrielle]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique Industrielle]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 6 impasse Alice Guy]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ZAC de Saint Martin du Touch]]></undefined5>
+		<el_31240saintjean><![CDATA[ 31025 Toulouse Cedex 3]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Eiffage Energie]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.eiffageenergie.com]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Intégrateur de Robotique Industrielle]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique Industrielle]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 26 Rue du Trauc]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ Z.A. Bel Air  ]]></undefined5>
+		<el_31240saintjean><![CDATA[ 12510 Druelle]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[ELTER]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ https://www.elter.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Intelligence Artificielle (réponses à appels d'offres / prestation)]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Fournisseurs de Technologies]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 58 rue du jeu de Paume]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31130 Balma]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[ENIT]]></aboardengineering>
+		<httpaboardengcom><![CDATA[]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[Ecole d'ingénieurs]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[Pôle Education]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[47 avenue d'Azereix]]></el_10ruedelasausse>
+		<undefined5><![CDATA[]]></undefined5>
+		<el_31240saintjean><![CDATA[65000 Tarbes]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[EPUR]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.epur.io]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Conception d'outils innovants dans le domaine du bâtiment]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique de Service]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ Hameau de Caillens]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[11140 Rodome]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[ERPO]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.erpo.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ BE mécanique et fabrication]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Fournisseurs de Technologies]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 28 avenue de l'enclos]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31120 Portet sur Garonne]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[EXCENT]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.excent.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Concepteur intégrateur de solutions industrielles]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique Industrielle]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 2 avenue Léon Foucault]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ZAC du Perget]]></undefined5>
+		<el_31240saintjean><![CDATA[31770 COLOMIERS]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[FANUC]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ http://www.fanuc.eu/fr/fr/robots]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Constructeur de robots industriels]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique Industrielle]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 15 Rue Léonard de Vinci]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[91090 LISSES]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[HMI-MBS]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.mb-s.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Distribution des robots UR et solutions de cerclage ErgoPack]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique Industrielle]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 22 route de Gien]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[45110 Saint Martin d'Abbat]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[ICAM]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.icam.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Ecole d'ingénieurs]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Education]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 75 avenue de Grande Bretagne]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31300 TOULOUSE]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[IMERIR]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.imerir.com]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Ecole d'ingénieurs]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Education]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ Avenue Paul Pascot]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ BP 90443]]></undefined5>
+		<el_31240saintjean><![CDATA[66004 Perpignan Cedex]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Inbenta]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.inbenta.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Traitement Automatique du Langage ]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Fournisseurs de Technologies]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 164 Route de Revel]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31400 Toulouse]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Infranor]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.infranor.com]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Fournisseur de Servo-variateurs]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Fournisseurs de Technologies]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 29 rue Jean Moulin]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[65100 Lourdes]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[INSA]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ http://www.insa-toulouse.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[Ecole d'ingénieurs]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Education]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 135 avenue de Rangueil]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ CS 97704]]></undefined5>
+		<el_31240saintjean><![CDATA[ 31077 TOULOUSE CEDEX]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Instadrone]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.instadrone.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Exploitant de drone - Prestataire de service]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Besoins et Usages]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 9 Place Alphonse Jourdain]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31000 Toulouse]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[IRIT ]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.irit.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Laboratoire de recherche en informatique]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Recherche]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 118 Route de Narbonne]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ Université Paul Sabatier]]></undefined5>
+		<el_31240saintjean><![CDATA[ 31062 TOULOUSE CEDEX 9]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[ISCID]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.univ-tlse2.fr/iup-arts-appliques]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Ecole de Design]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Education]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 116 boulevard Montauriol]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ BP 794]]></undefined5>
+		<el_31240saintjean><![CDATA[ 82013 MONTAUBAN CEDEX]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[i-TECHDRONE]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ ]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[Prestations drones et sous-marin et conception d'applications. Distributeur des drones Civic Drone.]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Drones]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 14 boulevard Pierre Renaudet]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[65000 Tarbes]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[ITEKS]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.iteks.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Intégrateur de robots et constructeur de machines spéciales]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique Industrielle]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ Chemin du Pla]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[11190 Montazels]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[KUKA]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.kuka.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Constructeur de robots industriels]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique Industrielle]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 6 rue du Parc]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[91140 Villebon sur Yvette]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[LAAS]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.laas.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Laboratoire de recherche du CNRS]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Recherche]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 7 avenue du Colonel Roche]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31077 TOULOUSE CEDEX 4]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[LIRMM]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.lirmm.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Laboratoire de recherche du CNRS]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Recherche]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 161 rue Ada]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[34095 Montpellier cedex 5]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[M3 Systems]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.m3systems.net]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Navigation par satellite]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Fournisseurs de Technologies]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 26 rue du Soleil Levant]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31410 Lavernose]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[AD'Occ]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.agence-adocc.com]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Agence régionale du développement économique]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Institutionnel]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 11 boulevard des Récollets]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31078 TOULOUSE CEDEX]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Magellium]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.magellium.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Ingénierie - Géo-Information et Imagerie]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Fournisseurs de Technologies]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 24 rue Hermès]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ BP 12113]]></undefined5>
+		<el_31240saintjean><![CDATA[ 31521 Ramonville Saint Agne Cedex]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Microtec]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.microtec-agora.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Conception et fabrication de cartes électroniques]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Fournisseurs de Technologies]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 2321 route de Baziège]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31670 Labège]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Mideltech]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.mideltech.com]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Bureau d'étude Mécanique]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique Industrielle]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 447 chemin d'Envernhe]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ZI de Pommiers]]></undefined5>
+		<el_31240saintjean><![CDATA[46400 Saint-Céré]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Midi Ingénierie]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.midi-ingenierie.com]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Expert en contrôle moteur et mécatronique]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Fournisseurs de Technologies]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 6 rue des frères Boudé]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ZONE INDUSTRIELLE THIBAUD]]></undefined5>
+		<el_31240saintjean><![CDATA[31100 TOULOUSE]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[MILLINAV]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.millinav.com]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Développement d'une prothèse de genoux robotisée]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique de Service]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 3 Rue Ariane]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31520 RAMONVILLE SAINT-AGNE]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Muretain Agglo]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ http://agglo-muretain.fr/]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Institutionnel]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Institutionnel]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 8 avenue Vincent Auriol]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31600 MURET]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[MyDigitPlace - GA MA Negoce]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ http://mydigitplace.com/]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Intégrateur de robots de services - Intermédiaire de commerce B to B]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique de Service ]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 3 Bis, impasse des flamboyants]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31600 LHERM]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Naio Technologies]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.naio-technologies.com]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Robots de desherbage pour l'agriculture]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique de Service]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 235 Rue de la Montagne Noire]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31750 Escalquens]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[NODEA]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.nodea-industries.com/fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Consortium nouvelle génération d'experts de l'outillage ]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique Industrielle]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ ZA de Lauzard]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[82370 LABASTIDE SAINT-PIERRE]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[NOVALYNX]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ http://www.novalynx.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Conception et Réalisation de Solutions Industrielles]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique Industrielle]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 35 Bis Route de Bessières]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31240 LUnion]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[NXP]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ http://www.nxp.com/]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Fabricant de composants électroniques]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Fournisseurs de Technologies]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 134 avenue du Général Eisenhower]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31650 TOULOUSE]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Ocean Innovation System]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.oceaninnovationsystem.com]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Concepteur de Robots Sous-Marins]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique de Service]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 9 avenue de l'Europe]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ CapAlpha]]></undefined5>
+		<el_31240saintjean><![CDATA[34830 Clapiers]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[OpenIndus]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.openindus.com]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Automates modulaires open source]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Fournisseurs de Technologies]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 10 rue Cany]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31300 Toulouse]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[PFT 34 Méc@innov]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ http://www.pft34mecainnov.com/]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Plateforme Technologique]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Education]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ Avenue des Martyrs de la résistance]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ BP745]]></undefined5>
+		<el_31240saintjean><![CDATA[34521 Béziers]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[PRO Consulting]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ http://proconsulting.apps-1and1.net/]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Consultant - Animateur de Robotics Place - Délégué Général de la Fédération Française des Clusters de la Robotique]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Fournisseurs de Technologies]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 250 route de Belberaud]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31450 MONTLAUR]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Rockwell Collins France]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.rockwellcollins.com]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Conception de solutions dans le secteur des drônes]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Drones]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 6 avenue Didier Daurat]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31700 BLAGNAC]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Scalian]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.scalian.com]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Produits et Services technologiques]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Drones]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 417 L'Occitane]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ CS77679]]></undefined5>
+		<el_31240saintjean><![CDATA[31676 Labège]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[SEMO]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.semo.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Intégrateur de robots industriels]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique Industrielle]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 10 rue Louis Breguet]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31700 Cornebarrieu]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Sica2m]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.sica2m.com]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Spécialiste de la transitique industrielle]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique Industrielle]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 30 chemin du Chapitre]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31100 Toulouse]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[SICK]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.sick.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Fabricant de capteurs Lidar]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Fournisseurs de Technologies]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 21 Blv de Beaubourg]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ZI Paris Est]]></undefined5>
+		<el_31240saintjean><![CDATA[ 77184 Emerainville]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Siemens Industry Software]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ http://www.plm.automation.siemens.com/en_us/products/open/kineo/]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Fournisseur gestion PLM et MOM]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Fournisseurs de Technologies]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ Rue de la Découverte]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ Miniparc - Bât 2]]></undefined5>
+		<el_31240saintjean><![CDATA[ 31677 LABEGE]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Soben]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.soben.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Equipementier automobile et aéronautique + développement Droïde]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique de Service]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ Village artisanal de Regourd]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[46000 Cahors]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Sogeti High Tech]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.sogeti-hightech.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ SSII -> 50 personnes dans l'équipe développent sur le comportement collaboratif des robots]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Fournisseurs de Technologies]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ Avenue de l'Escadrille Normandie Niemen]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ Parc du Millénaire - Bât 2]]></undefined5>
+		<el_31240saintjean><![CDATA[ 31703 BLAGNAC CEDEX]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[SR Connect]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.sr-connect.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Formateur au pilotage de drones / Diffuseur d'une solution d'effarouchage des oiseaux]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Drones]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 106 impasse du cottage]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[81500 Fiac]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[STERELA]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.sterela.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Systèmes de cibles pour l'armée / Robots de logistique]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique de Service]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 5 Impasse Pédenau]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31860 PIN-JUSTARET]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[SUMA Aerospace]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.suma-aerospace.com]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Equipements mécatroniques]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Fournisseurs de Technologies]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 7 avenue Didier Daurat]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31700 Blagnac]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Sunbirds]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.sunbirds-uas.com]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Fabricant de drones]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Drones]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 231 rue Pierre et Marie Curie]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31670 Labège]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Symétrie]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.symetrie.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Robot hexapode de positionnement ultraprécis d'objets]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Fournisseurs de Technologies]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 10 allée Charles Babbage]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[30000 Nimes]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Sysmeca Ingenierie]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.sysmeca.com]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Bureau d'études mécanique]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Fournisseurs de Technologies]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 8 allée du Catchère]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ZAC du Perget]]></undefined5>
+		<el_31240saintjean><![CDATA[31770 COLOMIERS]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Tecnalia]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.tecnalia.com]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Centre privé de R&D et de transfert de technologies]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Fournisseurs de Technologies]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 950 rue Saint-Priest]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ Bât. 6 - CSU]]></undefined5>
+		<el_31240saintjean><![CDATA[ 34090 Montpellier]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Tenwhil]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.tenwhil.com]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Etudes, programmation et mise en route d'installations robotisées]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique Industrielle]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 1 rue Chappe]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[78130 Les Mureaux]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Toulouse Tech Formation Professionnelle]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ http://toulousetech-formation.fr/fr/index.html]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Formation Professionnelle]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Education]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 6 allée Emile Monso]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31029 Toulouse Cedex 6]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Ublu]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.ublu.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Intégrateur de robots de services]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique de Service]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 27 Allée du Roussillon]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31770 Colomiers]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[UPSSITECH - SRI]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.iupsi.ups-tlse.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[Ecole d'ingénieurs]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ Pôle Education]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 118 route de Narbonne]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31400 TOULOUSE]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Wyca]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.wyca.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Robots de téléprésence pour l'accueil des clients à distance]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique de Service]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ 121 route de Paris]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31140 Aucamville]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[YASKAWA]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.yaskawa.fr]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Fabricant de robots industriels]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique Industrielle]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ RUE NUNGESSER ET COLI]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ D2A]]></undefined5>
+		<el_31240saintjean><![CDATA[ 44860 SAINT AIGNAN GRANDLIEU]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Zimmer Biomet Robotics ]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.medtechsurgical.com]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Robots chirurgicaux]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique de Service]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ ZAC Eurêka]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ 900 rue du Mas de Verchant]]></undefined5>
+		<el_31240saintjean><![CDATA[ 34000 Montpellier]]></el_31240saintjean>
+	</node>
+	<node>
+		<aboardengineering><![CDATA[Zodiac Pool Care]]></aboardengineering>
+		<httpaboardengcom><![CDATA[ www.zodiac.com]]></httpaboardengcom>
+		<bureaudtudesenautomatique><![CDATA[ Robots de piscine]]></bureaudtudesenautomatique>
+		<plefournisseursdetechnologies><![CDATA[ DAS Robotique de Service]]></plefournisseursdetechnologies>
+		<el_10ruedelasausse><![CDATA[ ZAC Balme]]></el_10ruedelasausse>
+		<undefined5><![CDATA[ ]]></undefined5>
+		<el_31240saintjean><![CDATA[31450 BELBERAUD]]></el_31240saintjean>
+	</node>
+</data>

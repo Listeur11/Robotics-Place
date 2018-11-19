@@ -1,0 +1,53 @@
+/*!
+Theme Name: Robotics Place
+Theme URI: http://underscores.me/
+Author: Studio Darman
+Author URI: https://studiodarman.fr
+Description: Description
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: roboticsplace
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+Robotics Place is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
+*/
+@import 'variables';
+@import 'reset';
+@import 'fonts';
+@import 'mixin';
+@import 'grid';
+@import 'general';
+@import 'menu';
+@import 'video';
+@import 'accueil';
+@import 'actualites';
+@import 'annuaire';
+@import 'cluster';
+@import 'fiche-emploi';
+@import 'mobile-slider';
+@import 'missions';
+@import 'missionAdherents';
+@import 'partenariats';
+@import 'post-template';
+@import 'woocommerce';
+@import 'contact';
+@import 'jadhere';
+@import 'fiche-adherent';
+@import 'mon-compte';
+@import 'button';
+@import 'checkbox';
+@import 'input';
+@import 'select';
+@import 'form';
+@import 'footer';
+@import 'slick';
+@import 'slick-theme';
+@import "perso";

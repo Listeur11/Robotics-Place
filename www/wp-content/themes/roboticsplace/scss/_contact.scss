@@ -1,0 +1,38 @@
+#renseignements {
+    i{
+        color: $color6;
+    }
+    a {
+        color: $color6;
+        margin-left: 15px;
+    }
+    .link {
+        margin-top: 20px;
+    }
+}
+
+.page-template-contact {
+    .left--pushed {
+        margin-top: -100px;
+        top: 50px;
+    }
+}
+
+.page-template-contact {
+    .rightBloc {
+        padding-top: 75px;
+    }
+}
+
+@media all and (max-width: 767px) {
+    .page-template-contact {
+        .left--pushed {
+            margin-top: 0px;
+            top: 0;
+            margin-bottom: 50px;
+        }
+        .rightBloc {
+            padding-top: 5px;
+        }
+    }
+}

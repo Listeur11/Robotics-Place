@@ -1,0 +1,101 @@
+/*the container must be positioned relative:*/
+
+.custom-select {
+    position: relative;
+    select {
+        display: none;
+        /*hide original SELECT element:*/
+    }
+
+    /*style the arrow inside the select element:*/
+    &:after {
+        position: absolute;
+        @include transition (all 0.1s);
+        content: "";
+        top: 40px;
+        right: 23px;
+        width: 13px;
+        height: 7px;
+        background: url('./images/icons/flechebas.svg') no-repeat;
+    }
+    &:hover {
+
+        .select-selected {
+            border: 1px solid $color7;
+             &.select-arrow-active {
+        @include transition (all 0.1s);
+                 
+        border: 1px solid $color5;
+    }
+        }
+        &:after {
+            @include transition (all 0.1s);
+            top: 42px;
+        }
+    }
+}
+
+.select-selected {
+        @include transition (all 0.1s);
+    
+    background-color: white;
+    color: $color7;
+    border-radius: 3px;
+    border: 1px solid #D5D9DB;
+    line-height: 20px;
+    padding: 8px 16px;
+    -webkit-user-select: none;
+    /* Chrome all / Safari all */
+    -moz-user-select: none;
+    /* Firefox all */
+    -ms-user-select: none;
+    /* IE 10+ */
+    user-select: none;
+    /* Likely future */
+   
+}
+
+.select-items div {
+    color: $color6;
+    padding: 8px 16px;
+}
+
+
+/*point the arrow upwards when the select box is open (active):*/
+
+.select-selected.select-arrow-active:after {
+    border-color: transparent transparent #fff transparent;
+    top: 7px;
+}
+
+
+
+/*style items (options):*/
+
+.select-items {
+    position: absolute;
+    background-color: $color5;
+    top: 100%;
+    left: 0;
+    right: 0;
+    margin-right: 10px;
+    margin-left: 10px;
+    z-index: 99;
+    div {
+        color: #ffffff;
+        border: 1px solid transparent;
+        border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
+        cursor: pointer;
+    }
+}
+
+/*hide the items when the select box is closed:*/
+
+.select-hide {
+    display: none;
+}
+
+.select-items div:hover,
+.same-as-selected {
+    background-color: rgba(0, 0, 0, 0.1);
+}

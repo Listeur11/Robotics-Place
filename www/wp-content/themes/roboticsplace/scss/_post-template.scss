@@ -1,0 +1,166 @@
+// -------
+// Start typing
+// -------
+.post-template-default {
+    .vs-section {
+        padding-top: 170px;
+    }
+    h1 {
+        width: auto;
+        text-align: left;
+    }
+    .article-title {
+        text-align: center;
+        margin-right: auto;
+        margin-left: auto;
+        max-width: 800px;
+    }
+    .previous-post {
+        display: inline-block;
+        margin-top: 50px;
+        a {
+            padding: 10px 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            font-family: "medium";
+            font-size: 16px;
+            font-weight: 100;
+            letter-spacing: 0.5px;
+            @include transition(all 0.3s);
+            box-sizing: border-box;
+            border-radius: 4px;
+            background: #353374;
+            &:hover {
+                color: $color5;
+                background: white;
+            }
+        }
+    }
+    .next-post {
+        display: inline-block;
+        position: absolute;
+        right: 0;
+        margin-top: 50px;
+        a {
+            padding: 10px 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            font-family: "medium";
+            font-size: 16px;
+            font-weight: 100;
+            letter-spacing: 0.5px;
+            @include transition(all 0.3s);
+            box-sizing: border-box;
+            border-radius: 4px;
+            background: #353374;
+            &:hover {
+                color: $color5;
+                background: white;
+            }
+        }
+    }
+}
+
+#actu {
+    .actus-checkbox {
+        margin-right: 10px;
+    }
+}
+
+#social {
+    text-align: center;
+}
+
+.post-template-default #actu .actu-list-item .date {
+    display: block;
+    margin-bottom: 20px;
+}
+
+.post-template-default .back-link {
+    color: #C83463;
+    position: absolute;
+    left: 0;
+    font-weight: bold;
+    font-family: 'regular';
+}
+
+.post-template-default .category-link {
+    text-align: center;
+}
+
+.post-template-default .category-link a {
+    color: #C83463;
+    font-weight: bold;
+    font-family: 'regular';
+}
+
+.post-template-default .article-container {
+    padding-left: 30px;
+    padding-right: 15px;
+    background: white;
+    position: relative;
+}
+
+.post-template-default .article-container:before {
+    content: "";
+    width: 200px;
+    position: absolute;
+    background-color: white;
+    display: block;
+    left: -200px;
+    top: 0;
+    bottom: 0;
+    z-index: 1;
+}
+
+.post-template-default .article-container .txt-article {
+    z-index: 10;
+    background: white;
+}
+
+
+.post-template-default .img-post img {
+    position: relative;
+    margin-top: 100px;
+    z-index: 10;
+}
+
+
+// -------
+// Mobile
+// -------
+@media all and (max-width: 768px) {
+    .post-template-default {
+        .vs-section {
+            padding-top: 80px;
+        }
+        #actu {
+            .actus-checkbox {
+                display: block;
+            }
+        }
+        .img-post img {
+            margin-top: 0;
+        }
+        .previous-post {
+            width: 100%;
+            a {
+                text-align: center;
+                width: 100%;
+            }
+        }
+        .next-post {
+            position: relative;
+            width: 100%;
+            margin-top: 20px;
+            a {
+                text-align: center;
+                width: 100%;
+            }
+        }
+    }
+}

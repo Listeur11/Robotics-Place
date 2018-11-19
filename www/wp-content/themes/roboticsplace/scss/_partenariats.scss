@@ -1,0 +1,123 @@
+#fede {
+    margin-top: 75px;
+    .whiteBg {
+        padding-top: 15px;
+        padding-bottom: 55px;
+    }
+    .shape__membres_Pink{
+      position: absolute;
+      top: 20%;
+      left: -5%;
+    }
+    .shape__membres_Blue{
+      position: absolute;
+      bottom: 45%;
+      left: -20%;
+    }
+}
+
+.inFede {
+    margin-top: 50px;
+    box-sizing: border-box;
+    img {
+        max-width: 190px;
+        display: block;
+        margin: 0 auto;
+        padding: 30px 20px;
+    }
+}
+
+#ttiImg {
+    img {
+        max-width: 150px;
+        width: 100%;
+
+    }
+}
+
+#fedeRegroupant {
+    margin-top: 50px;
+    width: 100%;
+    position: relative;
+    padding: 70px 0;
+    background: url('./images/paterns/backgroundOrga.jpg') no-repeat center 100%;
+
+    h2 {
+        color: white;
+    }
+    p {
+        color: white;
+    }
+}
+@keyframes AnimFFC{
+    0% {transform:translateY(75px); }
+    100% {transform:translateY(0);}
+}
+.jetevois h2,
+.jetevois .animFFC {
+    animation-name: AnimFFC;
+    animation-duration:.525s;
+    animation-timing-function: easeInOutCirc;
+}
+#interclustingtti {
+    position: relative;
+    left: -10px;
+
+}
+#interclustingttiTitle{
+        top: 130px;
+}
+#ttiSVG {
+    width: 70%;
+    max-width: 550px;
+}
+@media all and (min-width: 767px) {
+    #fedeRegroupant {
+        .container {
+            margin-bottom: 70px;
+        }
+        & + .container {
+            margin-top: -130px;
+        }
+    }
+    #tti {
+        margin-top: 100px;
+        margin-bottom: 100px;
+    }
+    #ffcRobotique {}
+}
+
+@media all and (max-width: 767px) {
+    #ttiSVG {
+    width: 100%;
+    }
+    #fede,
+    #interclustingtti{
+        .button__voirFiche{
+            margin-top: 15px;
+            margin-left: calc(50% - 50px);
+
+        }
+    }
+    #interclustingtti {
+        position: relative;
+        left: -10px;
+        width: calc(100% + 40px);
+        margin-top: -80px;
+        top: -60px;
+        margin-bottom: -60px;
+    }
+    #interclustingttiTitle{
+        top: 61px;
+}
+    #ttiImg {
+        img {
+            width: 70px;
+            height: 70px;
+            margin-right: 15px;
+        }
+    }
+    #nextPic {
+        margin-top: 25px;
+    }
+}

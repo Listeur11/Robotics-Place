@@ -1,0 +1,83 @@
+.grey-line{
+  display: block;
+  margin : 0 auto;
+  margin-top: 20px;
+  height: 1px;
+  width: 76vw;
+  background-color: #E3E3E3;
+  bottom: 0;
+}
+.margin-top-annuaire{
+  margin-top: 3rem;
+}
+.title-recherche{
+  padding-left: 4rem;
+}
+.facetwp-page.active{
+  background-color: black ;
+  color: white;
+}
+.text-align-left{
+  text-align: left !important;
+}
+.facet-pagination .facetwp-pager .facetwp-page{
+  padding:1rem 1.5rem !important;
+  border-radius: 4px;
+}
+.whiteBgResult{
+  padding: 5rem;
+}
+
+.facet-pagination{
+  text-align: right;
+}
+.facetwp-pager{
+  padding: 2rem;
+}
+.facetwp-pager-label{
+  display: inline-block !important;
+  visibility: hidden;
+}
+.right-div{
+  text-align: right;
+}
+.center-div{
+  text-align: center;
+}
+.reset-btn{
+  position: relative !important;
+  display: block;
+  margin: auto;
+
+}
+.facetwp-facet {
+  display: block;
+  margin: 0 auto;
+}
+
+@media only screen and (max-device-width:768px) {
+  .title-recherche{
+     padding-left: 1rem;
+   }
+  .margin-top-annuaire{
+    margin-top: -10px;
+  }
+  .margin-bot-annuaire{
+    margin-bottom: 30px;
+
+  }
+  .right-div{
+    text-align: left;
+    float: left;
+  }
+  .whiteBgResult{
+    padding: 2rem;
+  }
+  .facet-pagination .facetwp-pager .facetwp-page{
+    padding:0.5rem .5rem !important;
+    border-radius: 4px;
+  }
+  .whiteBgRecherche{
+    padding-top: 20px;
+  }
+}
